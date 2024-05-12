@@ -1,0 +1,2071 @@
+CONNECTED NODES AS OF 11/11/87
+TOTAL NODES = 2063
+
+Node      Site                                      System
+--------  ----------------------------------------  ---------------------------
+IRIS                                                UNIX
+DOCCRC                                              HONEYWELL CP-6
+UNCACDC
+UNCAMULT
+BCCHEM                                              VMS
+DKATS11   Aarhus Tek Skole (ATS)                    IBM VM/SP R4
+DKJAU11   Aarhus Tekniske Skole, Denmark            IBM VM/SP R4
+DKAAUCHE  Aarhus Univ                               VMS
+ACUVAX    Abilene Christian Univ                    VMS
+FINABO    Abo Akademi                               DEC VMS 4 3
+ACADIA    Acadia U                                  NOS
+ALBION    Albion College                            VMS
+EB0UAB51  Altes Energies-U A. Barcelona             VMS
+APSEDOFF  American Physical Soc                     UNIX BSD
+AUVM      American University                       VM/SP
+AMHERST   Amherst College Acad Comp Ctr             VMS
+TRANAVM1  Anadolu Univ                              IBM VM/SP R4
+ANLCMT    Argonne Chemical Tech Div                 VMS
+ANLCHM    Argonne Chemistry Division                VMS
+ANLHEP    Argonne High Energy Physics Div           VMS
+ANLMST    Argonne Materials Sci and Tech            VMS
+ANLNBI    Argonne Nat Lab Admin NBI                 UNIX BSD
+ANLADM1   Argonne Nat Lab Admin NBI 1               OASYS
+ANLADM2   Argonne Nat Lab Admin NBI 2               OASYS
+ANLEES1   Argonne Nat Lab EES NBI                   OASYS
+ANLNBI2   Argonne Nat Lab EES NBI                   UNIX BSD
+ANLEES2   Argonne Nat Lab EES NBI                   OASYS
+ANLEES3   Argonne Nat Lab EES NBI                   OASYS
+ANLEL     Argonne Nat Lab Elec Div                  VMS
+ANLEES    Argonne Nat Lab Ener & Environ            VMS
+ANLNESC   Argonne National Energy Sfw Ctr           VM/SP
+ANLOS     Argonne National Lab                      MVS/SP
+ANLVM     Argonne National Lab                      VM/SP
+ANLVMS    Argonne National Lab                      VMS
+ANLCV1    Argonne National Lab Cluster VAX          VMS
+ANLPHY    Argonne Physics Division                  VMS
+ANLPNS    Argonne Pulsed Neutron Src Proj           VMS
+ASUIC     Arizona St U Info Ctr                     VM/SP
+ASUCP1    Arizona State - U Chem/Phys/Solid State ScVMS
+ASUACAD   Arizona State U                           VM/SP
+ASUEJS    Arizona State U Eng Comp Ctr              VM/SP
+ASUCADAM  Arizona State U Engr Res Ctr              VM/SP
+ASUCP2    Arizona State U Lib Arts & Sci Res Cmpt FaVMS
+ARSBARC   ARS                                       VMS
+FRIHAP31  Assistance Publique                       IBM MVS/SP
+ACMVM     Assoc Computing Machinery                 VM/SP
+AUDUCVAX  Auburn Univ                               VMX
+AEARN     Austria EARN                              VM/SP
+BABSON    Babson Coll                               VMS
+BARILAN   Bar Ilan U Comp Ctr                       IBM MVS/SP 1 3.5
+BARILVM   Bar Ilan Univ CC                          IBM VM/SP R4
+BIMACS    Bar llan Univ Math & CS                   UNIX BSD 4 2
+BAYLOR    Baylor Univ                               VMS
+BAYLRHSB  Baylor Univ HSB                           VM/IS
+BCIT      BCIT Computer Resources                   VM/HPO
+NOBIVM    Bedrifts Instit                           VM/SP
+BEARN     Belgium EARN                              VM/SP
+BGUNOS    Ben Gurion U Comp Ctr                     CDC NOS 2 3
+BGUVMS    Ben Gurion University                     DEC VMS 4 5
+BGUVM     Ben Gurion University                     IBM VM
+BENGUS    Ben-Gurion U Math Comp Sci                UNIX BSD 4 3
+BENTLEY   Bentley College                           PRIMOS
+CBEBDA3T  Berne University                          IBM MVS/SP
+CBEBDA3C  Berne University                          IBM MVS/SP
+BGUEE     BGU Electrical Eng.                       DEC VMS 3 7
+TECHMAX   Biomed Engineering Technion               DEC VMS
+BRCVAX    Biotech Res Ctr                           VMS
+BITNIC    BITNET Network Sup Ctr                    VM/SP
+INTERBIT  BITNET-Internet Gateway                   VM/SP/HPO
+BNR       BNR Information Systems                   VM/SP
+TRBOUN    Bogazici Univ                             NOS
+BCVAX3    Boston College Computer Center            VMS
+BCVMCMS   Boston College Computer Center            VM/HPO
+BCVMS     Boston College Computer Center            VMS
+BCVAX1    Boston College Computer Center            VMS
+BCVAX2    Boston College Computer Center            VMS
+BCVAX4    Boston College Computer Center            VMS
+BOSTONU   Boston U Acad Comp Ctr                    VM/SP
+BUCASA    Boston U Adaptive Sys VAX A               VMS
+BUASTA    Boston U Astronomy VAX A                  VMS
+BUCHMB    Boston U Chem Dept VAX B                  VMS
+BUCHMC    Boston U Chem Dept VAX C                  VMS
+BUCHMA    Boston U Chemistry VAX A                  VMS
+BUENGA    Boston U Engineering VAX A                VMS
+BUPHYA    Boston U Physics VAX A                    VMS
+BOSTCIML  Boston Univ CIML                          VM/SP
+BUPHYC    Boston Univ Physics VAX C                 VMS
+BRANDLOG  Brandeis Univ Administration (LOGOS)      VMS
+BRANDEIS  Brandeis Univ Feldberg Comp Ctr BINAH     VMS
+BYULAW    Brigham Young U Law Sch                   VMS
+BYUSTAT1  Brigham Young Univ                        VMS
+BYUADAM   Brigham Young Univ                        UNIX
+BNLDAG    Brookhaven Nat Lab                        VMS
+BNL       Brookhaven National Lab                   UNIX BSD
+BNLVMA    Brookhaven National Lab                   VM/SP
+BNLCHM    Brookhaven National Lab                   VMS
+BNLCL1    Brookhaven National Lab                   VMS
+BROWNCOG  Brown U Cognitive Sci                     VMS
+BROWNVM   Brown U Comp Ctr                          VM/SP
+BROWNCS   Brown U Computer Science Dept             UNIX
+BROWNHEP  Brown U Physics                           VMS
+BRYNMAWR  Bryn Mawr College                         VMS
+IDBSU     BSU                                       VM/SP
+BUCKNELL  Bucknell U Comp Services                  CP6
+BKNLVMS   Bucknell U Comp Services                  VMS
+BYUCOAL   BYU Combust Lab VAX                       VMS
+BYUCSA    BYU CS VAX                                UNIX BSD
+BYUETIBM  BYU Eng College                           VM/SP
+BYUHRC    BYU Humanities                            VM/SP
+BYUADMIN  BYU ISS                                   VM/SP
+BYUVAX    BYU ISS VAX                               VMS
+BYULIB    BYU Library                               VM/SP
+IPVCCN    C.C.N. Pavia, Italy                       VMS
+FRCCSC21  C.C.S.C, Strasbourg                       MVS
+FRCICB71  C.I.C.B. Rennes                           BULL MULTICS
+FRCIME51  C.I.M.E., Grenoble, France                DEC VMS
+FRCIIL71  C.I.R.I.L., Nancy, France                 BULL MULTICS
+ICSCRAI   C.R.A.I., Rende, Italy                    IBM MVS/SP 3 8
+IPACRES   C.R.E.S. - Palermo, Italy                 DEC VMS
+FRIHBO11  C.R.I.H.                                  VM/SP
+FRCRIN61  C.R.I.N.                                  UNIX
+IBACSATA  C.S.A.T.A. - Bari, Italy                  IBM VM/SP R3 1
+CALSTATE  Calif State U                             NOS
+CALTECH   Caltech                                   VMS
+CITXRAY   Caltech                                   VMS
+CIT4381   Caltech                                   VM/SP
+CITDEIMO  Caltech Astronomy DEIMOS
+CITPHOBO  Caltech Astronomy PHOBOS                  VMS
+CITJULIE  Caltech CCO                               VMS
+CITROMEO  Caltech CCO                               VMS
+CITIAGO   Caltech CCO IAGO                          VMS
+HAMLET    Caltech C3P/CCO                           VMS
+CITHEX    Caltech HEP                               VMS
+CITCHEM   Caltech XHMEIA                            VMS
+CANISIUS  Canisius College CC                       VMS
+CARLETON  Carleton U                                CP-6
+CMCCVA    Carnegie Mellon U Comp Ctr                VMS
+DRYCAS    Carnegie Mellon Univ Comp Clb             VMS
+CMUCCVMA  Carnegie-Mellon U Comp Ctr                VM/SP
+CWRU      Case Western                              VMS
+CUA       Catholic Univ of America CC               VMS
+CUAVAXB   Catholic Univ of America CC               VMS
+CUAVAXA   Catholic Univ of America CC               VMS
+CATCC     Catonsville Comm Coll                     VM/SP
+CAUSE     CAUSE Nat'l Conf. Temp Node               VMS
+FRMRS11   CCSJ, Marseille, France                   IBM VM
+FRCCUP51  CCUP, Marseille, France                   DEC MVS
+CDCCENTR  CDC Demo Ctr                              NOS
+CEBAFVAX  CEBAF Computer Center                     VMS
+FRSAC12   CEN-SACLAY DPhPE, Gif/Yvette              IBM VM/SP HPO
+BIBLIO31  Centennial College                        VM/SP
+CENCOL    Centennial College                        VM/SP
+CFR       Central Florida Reg Data Ctr MVS          MVS/SP
+CFRVM     Central Florida Reg Data Ctr VM           VM/SP
+FRBDX11   Centre IC Bordeaux                        VM/SP
+FRSAC11   Centre Scientifique CEA Saclay            IBM VM/SP
+FRPOI11   Centre Scientifique IBM Paris             IBM VM/SP
+IPGCUIC   Centro U Itialia Centrale                 IBM VM/SP R3 1
+LUXCEP11  CEPS, Walferdange                         VM/SP
+CERNADP   CERN                                      IBM VM/SP
+CEARN     CERN                                      VM/SP
+CERNVAX   CERN                                      UNIX BSD
+CERNVM    CERN                                      IBM VM/SP HPO R4 2
+CERNVME   CERN                                      VM/SP
+GEN       CERN                                      IBM MVS/SP 1 3.3
+CRVXDEV   CERN OC Developement, Switzerl            VMS
+CRVXP173  CERN P173 Exp                             VMS
+CRUXNMC   CERN P173 Experiment                      DEC VMS
+CRUXNMCE  CERN P173, Geneva, Switzerland            DEC VMS
+CRUXNMCD  CERN P173, Geneva, Switzerland            DEC VMS
+CRUXNHD   CERN P173, Geneva, Switzerland            DEC VMS
+UNICC     CERN, Geneva, Switzerland                 IBM MVS/SP
+CERNEMU1  CERN, Geneva, Switzerland                 IBM VM/SP
+AECLCR    Chalk River Nuclear Labs                  NOS
+FRCICG71  CICG, Grenoble                            BULL MULTICS
+FRCIRP71  CICRP, Paris, France                      BULL MULTICS
+FRTOU71   CICT - Toulouse                           BULL MULTICS
+EMDJEN11  CIEMAT (Junta Energia Nuclear)            VM/SP
+IMICLVM   CILEA                                     VM/HPO
+IMICLVX   CILEA, Segrate - Milano, Italy            DEC VMS 4 5
+ICINECA2  CINECA                                    DEC VMS 4 4
+IBOINFN   CINECA - Bologna                          RSX11-M
+ICINECA   CINECA Bologna                            VM/SP
+IBO4341   CINECA Bologna                            IBM VM/SP R2
+ICINECA1  CINECA, Bologna                           CDC NOS 2 4.1
+FRORS31   CIRCE, Orsay, France                      MVS/SP
+FRORS12   CIRCE, Orsay, France                      IBM VM/SP R4
+IMICISE   CISE - Milano, Italy                      IBM VM/SP HPO R3
+FRCITL71  CITI Lille                                BULL MULTICS
+CLARGRAD  Claremont Grad School Comp Ctr            VMS
+CLARMATH  Claremont Grad School Math Dept.          VMS
+CLARKU    Clark Univ Off of Info Sys                VMS
+CLVM      Clarkson U ERC                            VM/SP
+CLVMS     Clarkson U ERC                            VMS
+CLUTX     Clarkson U ERC                            UTX/32
+CLGW      Clarkson U ERC                            UNIX
+CLMIE     Clarkson Univ MIE                         VMS
+CLEMSON   Clemson U Comp Ctr                        MVS/XA
+CSUOHIO   Cleveland State U Computer Svcs           VM/SP
+NOCMI     CMI, Bergen, Norway                       VM/SP
+CMCHEM    CMU Chemistry Dept                        VMS
+CGECMU51  CMU Geneve                                DEC VMS
+CMPHYS    CMU Physics Dept                          VMS
+WACES     CMU Physics Dept                          VMS
+CMCCVB    CMU-CC Vax-b                              VMS
+FRCRPE51  CNET/CRPE                                 VMS
+FRCECM51  CNRS Ctr Metallurgique                    VMS
+FRUNIP61  CNRS-LITP                                 UNIX
+FRPOLY11  Cntr Info Ecole Polytech                  VM/SP
+EARNET    CNUCE - C.N.R.                            VM/SP
+FRMOP22   CNUSC - Montpellier                       MVS/XA
+FRMOP11   CNUSC Montpellier                         VM/SP
+FRMOP12   CNUSC, Montpellier                        VM/SP
+WMMVS     Col William and Mary Comp Ctr             MVS/SP
+WMHEG     Col William Mary Enrgy Grp                VMS
+COLGATEU  Colgate Univ                              VMS
+FRCDF51   College de France, Paris                  DEC VMS
+CMR001    College militaire royal                   CP-6
+CODVM1    College of DuPage Comp. Srvs              VM/SP
+MINES     Colorado Sch Mines                        VMS
+CSUGREEN  Colorado State U
+CSUGOLD   Colorado State U
+CSU205    Colorado State U                          NOS
+CUCCVX    Columbia U Admin Dept                     VMS
+CUGSBVAX  Columbia U Bus Sch Futures Ctr            VMS
+CUCHEM    Columbia U Chemistry Dept                 VMS
+CUCHMB    Columbia U Chemistry Dept                 VMS
+CUCEVX    Columbia U Civil Eng.                     VMS
+CUCCA     Columbia U Cluster Ctrl A                 UNIX BSD
+CUCSVM    Columbia U Comp Sci                       VM/SP
+CUNIXC    Columbia U Ctr Cmptng. Act.               ULTRIX
+CUVMC     Columbia U Ctr for Comp Activities        VM/SP
+CUVMA     Columbia U Ctr for Comp Activities        VM/SP
+CUVMB     Columbia U Ctr for Comp Activities        VM/SP
+CUGSBVM   Columbia U Grad Sch Business              VM/SP
+CUCCFA    Columbia U Health Sciences                VMS
+CUHSDA    Columbia U Health Sciences                VMS
+CUMBG     Columbia U Molecular Biophy. Graph        VMS
+CUORMA    Columbia U Orthopaedic Res Micro A        VMS
+CUTCV1    Columbia U Teachers Coll                  VMS
+CUTHRY    Columbia U Theoretical Phys               VMS
+CUCISA    Columbia Univ Ctr for Clinical Res        VMS
+UTKVX     Computing Center                          VM/SP
+CONU1     Concordia U Computing Ctr                 NOS
+CTSTATEU  Connecticut State Univ Sys                VMS
+IRMCNR    Consig Naz Richerche - Roma               IBM VM/SP R3
+DKCBS01   Copenhagen Business School, DK            PRIMOS
+DKTC11    Copenhagen Technical College              IBM VM/SP
+CRNLION   Cornell Lab of Plasma Stud                ULTRIX
+CORNELLA  Cornell U Computer Services               VM/SP/HPO
+CORNELLC  Cornell U Computer Services               VM/SP/HPO
+CRNLASTR  Cornell U Dept of Astronomy               VMS
+CRNLCS    Cornell U Dept of Computer Science        UNIX BSD
+CRNLGSM   Cornell U Grad Sch of Mgmt                VMS
+CRNLNS    Cornell U Lab of Nuclear Studies          VMS
+CRNLIMAP  Cornell U Mech Eng                        VM/SP
+CUMC      Cornell U Medical College                 VM/SP
+CORNELLF  Cornell U Production Supercomp Facil      VM/XA/SF
+CORNELLD  Cornell U Supercomputer Facil             VM/SP/HPO
+CRNLCAM   Cornell Univ CAM                          UNIX BSD
+CRNLVAX2  Cornell Univ Comp Servs                   UNIX BSD
+CRNLVAX3  Cornell Univ Comp Servs                   ULTRIX
+CRNLVAX4  Cornell Univ Comp Servs                   ULTRIX
+CRNLVAX1  Cornell Univ Comp Srvs                    UNIX BSD
+CRNLVAX5  Cornell Univ Comp Svcs                    VMS
+CRNLMVS   Cornell Univ Computer Srvs                MVS/SP
+CRNLDEV   Cornell Univ Ctr Theory & Simul in Sci & EUNIX BSD
+CRNLCHES  Cornell Univ HESS                         VMS
+CRNLASSP  Cornell Univ LASSP                        UNIX BSD
+CRNLNUC   Cornell Univ LNS                          SUNOS UNIX
+CRNLMSC   Cornell Univ MSC                          PRIMOS
+CRNLEE    Cornell Univ Sch Elec Eng                 UNIX BSD
+CRNLTHRY  Cornell Univ Theory Ctr.                  UTX/32
+FRIHRO21  CRIH de Haute Normandie                   MVS
+FRIHMA11  CRIH de Marseille                         VM/SP
+FRIHVG11  CRIH de Villeneuve St. George             VM/SP
+ICSATAXA  CSATA - Bari                              IBM MVS/XA
+ITOCSIP   CSI Piemonte, Torino, Italy               IBM MVS/SP 3 8
+SECTHF51  CTH Gothenburg, Sweden                    DEC VMS
+FRCTHO11  CTHO, Orsay, France                       IBM VM
+CATE      Ctr for Adv Tech Educ                     VM/SP
+BBADMIN   CUNY - Baruch Col Admin Comp Ctr          VM/SP
+BBADMIN2  CUNY - Baruch Col Admin Comp Ctr          VM/SP
+BARUCH    CUNY - Baruch College                     VM/SP
+BMACADM   CUNY - Bor of Manhattan Comm Col          VM/SP
+BM002     CUNY - Bor of Manhattan Comm Col Adm      VM/SP
+BX001     CUNY - Bronx Community College            VM/SP
+BKLYN     CUNY - Brooklyn College                   VM/SP
+BKLYNMVS  CUNY - Brooklyn College                   MVS/SP
+BKLYNCIS  CUNY - Brooklyn College                   UNIX
+CCNY      CUNY - City College of New York           VM/SP
+CCNYVME   CUNY - City College of New York           VM/SP
+CCNYSCI   CUNY - City College of NY                 UNIX
+CCNYVAX1  CUNY - City College of NY                 VMS
+SI001     CUNY - Col of Staten Island               VM/SP
+CUNYVMS1  CUNY - Graduate Center                    VMS
+HUNTER    CUNY - Hunter College                     VM/SP
+KB001     CUNY - Kingsborough Comm Col              VM/SP
+LEHMAN    CUNY - Lehman College                     VM/SP
+NY001     CUNY - New York City Tech Col             VM/SP
+QUEENS    CUNY - Queens College                     VM/SP
+QB001     CUNY - Queensborough Comm Col             VM/SP
+CUNYJES3  CUNY - University Computer Ctr            MVS/SP
+YORK      CUNY - York College                       VM/SP
+CUNYVM    CUNY University Computer Ctr              VM/SP/HPO
+CUNYVMV2  CUNY University Computer Ctr              VM/SP/HPO
+MCVAX     CWI Amsterdam                             UNIX
+SDNET     Dakota State College                      VM/SP
+DAL       Dalhousie U Comp Cntr                     NOS
+DALAC     Dalhousie University UCIS                 VMS
+DALADM    Dalhousie University UCIS                 MVS/SP
+DKDHI11   Danish Hydraulic Inst                     IBM VM/SP
+DKSFI11   Danish Ntl Inst Social Res                IBM VM/SP R3
+DARTCMS1  Dartmouth College Kiewit CC - CMS1        VM/SP
+DECUS     DECUS Symposium Demo Node                 VMS
+D00DEMO   Demo Node Germany
+FRULM63   Dept Math ENS Paris                       ULTRIX 32
+DHHDESY3  DESY                                      MVS/SP
+DFVLROP1  Deutsche FVLR Oberpfaffenhofen            IBM VM/SP HPO R4 2
+DHDDKFZ1  Deutsches Krebsforschungszentr            IBM VM/SP R3
+DFNGATE   DFN Gateway at GMD DA, Germany            IBM VM/SP R4
+DFVLRBS1  DFVLR Braunschweig                        VM/SP
+DFVLRBS2  DFVLR Braunschweig                        MVS/SP
+DFVLRGO2  DFVLR Goettingen                          MVS/SP
+DFVLRGO1  DFVLR Goettingen                          VM/SP
+DFVLRKP1  DFVLR Koeln-Porz                          VM/SP
+DFVLRKP2  DFVLR Koeln-Porz                          MVS/SP
+DFVLROPE  DFVLR Oberpfaffenhofen                    MVS/SP
+DFVLROP2  DFVLR Oberpfaffenhofen                    MVS/SP
+DFVLRST1  DFVLR Stuttgart                           IBM VM/SP HPO R4 2
+DKDHI12   DHI, Horsholm, Denmark                    IBM VM/SP
+DICKINSN  Dickinson College                         VMS
+IFICHIM   Dip. di Chimica Firenze, Italy            VM/SP
+IRM2CIV   Dip. Ingen. Civile Univ Roma 2            VM/SP
+DB0DIW11  DIW Berlin                                VM/SP
+HLSDNL50  DNL Leidschendam                          DEC VMS 4 5
+DKDOU01   DOU, Odense, Denmark                      SPERRY OS 1100
+DRAKE     Drake Univ                                VMS
+DREW      Drew Univ                                 VMS
+DUPR      Drexel Univ Off Cmptng Srvs               PRIMOS
+DUVM      Drexel University                         VM/SP
+DUKEFSB   Duke U FUQUA Bus Sch                      VM/SP
+DUKE      Duke University                           MVS/SP
+DUPONTCR  E.I. Du  Dupont Co.                       VM
+FREMBL51  E.M.B.L. Grenoble, France                 VMS
+FRERB51   E.N.S.E.R.B., Talence, France             DEC VMS
+EBESADE0  E.S.A.D.E. Barcelona - Spain              AOS/VS
+ECUVM1    East Carolina Univ Comp & Info Sys        VM/HPO
+ETSU      East Tennessee St. Univ                   VM/SP
+ETSUACE   East Tennessee St. Univ                   VM/SP
+EWCN      East-West Center                          VMS
+EWC       East-West Center                          VMS
+FRECCL11  Ecole Centrale de Lyon, France            IBM VM/SP R4
+FRECP11   Ecole Centrale de Paris                   IBM VM/SP R4
+FREMP11   Ecole des Mines Paris                     VM/SP
+FRHEC11   Ecole Hautes Et Commer Paris              VM/SP
+FRULM11   Ecole Normale Super Paris                 VM/SP
+FRULM52   Ecole Normale Superieure Paris            VMS
+POLYTEC1  Ecole Polytechnique                       MUSIC
+POLYTEC2  Ecole Polytechnique                       MUSIC
+POLYTEC3  Ecole Polytechnique                       MUSIC
+POLYTECA  Ecole Polytechnique VM                    VM/SP
+FRESCR51  Ecole Sup de Commerce                     DEC VMS
+FRESE51   Ecole Super d'Elec                        DEC VMS
+IECSEC    ECSEC IBM Rome                            IBM VM/SP HPO 3 4
+CIEARN    Educat & Research, Ivory Coast            VM/SP
+EDUCOM    EDUCOM                                    VMS
+AWIUNI11  EDV Zentrum U Wien                        IBM VM/SP HPO R4 2
+AWIBOK01  EDV-Zentrum Boku Wien                     PRIMOS
+AWITUW01  EDV-Zentrum TU Wien                       NOS
+TREARN    Ege Univ                                  VM/SP
+CLSEPF51  Eid Tech Hoch Lausanne                    DEC VMS
+CZHETH5A  Eidgen Tech Hoch Zuerich                  VMS
+CAGEIR5A  EIR, Wuerenlingen, Switzerland            VMS
+EPRI      Electric Power Res Inst                   VM/SP
+DHHEMBL5  EMBL Hamburg, Germany                     VMS
+DHDEMBL   EMBL Heidelberg, Germany                  VMS
+EMUVM1    Emory U Comp Ctr - VM1                    VM/SP
+EMUVM2    Emory U Comp Ctr - VM2                    VM/SP
+EMORYU1   Emory U Comp Ctr UNIX1                    UNIX BSD
+EMORY     Emory U Math and CS                       BERKELEY UNIX
+EMRYCC    Emory Univ Comp Ctr VMS VAX               VMS
+EMORYU2   Emory Univ Comptng Ctr                    UNIX
+HROEUR5   Erasmus U Rotterdam                       VMS
+ESOC      ESA ESOC                                  IBM VM/SP R4
+HNOESA10  ESA Europ Space Res Tech Ctr              IBM VM/SP 3 1
+HNOESA52  ESA Europ Space Res Tech Ctr              VMS
+EVIESA50  ESA Satellite Tracking, Spain             VMS
+IFRESA10  ESA/ESRIN Frascati, Italy                 IBM VM/SP R4
+FRESA10   ESA, France                               IBM VM/SP R3 1
+DGAESO51  ESO, Garching                             VMS
+DDAESA10  ESOC ESA Darmstadt                        IBM VM/SP R4
+FRESTP11  ESTP, Paris, France                       VM/SP
+CZHETH1A  ETHZ/IHP                                  IBM VM/SP HPO 4 2
+ROSEDALE  ETS                                       VMS
+DHDEMBL5  European Molecular Biology Lab            VMS
+ITSOGS    Exp. Geophys. Observ. Trieste             IBM VM/SP R4
+FRFUPL11  F.U.P.L. de Lille, France                 IBM VM/SP R4
+DAAFHT1   Fachhochschule Aalen                      VM/SP
+DHNFHS1   Fachhochschule Heilbronn                  IBM VM/SP R3
+DKAFHS1   Fachhochschule Karlsruhe                  IBM VM/SP R4
+DMAFHT1   Fachhochschule Technik Mannheim           IBM VM/SP REL 4 0
+DWIFH1    Fachhochschule Wiesbaden                  VM/SP
+BNANDP11  Facultes U Notre Dame de la Paix Namur BelVM/SP
+BNANDP10  Facultes U Notre Dame Namur               VM/SP
+DS0FBD11  FBD - Schulen Gemein GMBH                 VM/SP
+FDACFSAN  FDA, CTR for Food Safety & Applied NutritiVM/SP
+FNALA     Fermi Natl Accelerator Lab                VMS
+FNALDBG   FERMI Natl Accelerator Lab                VMS
+FNAL      Fermilab                                  VMS
+FNALB     Fermilab                                  VMS
+FNALBSN   Fermilab                                  VMS
+FNALB0    Fermilab                                  VMS
+FNALC     Fermilab                                  VMS
+FNALCDF   Fermilab                                  VMS
+FNALNET   Fermilab                                  VMS
+FNALVM    Fermilab                                  VM/SP
+FNMFE     Fermilab                                  VMS
+FNALG     Fermilab                                  VMS
+FNALF     Fermilab                                  VMS
+FNALE     Fermilab                                  VMS
+FNALMDTF  Fermilab                                  VMS
+FNAL01    Fermilab                                  VMS
+FNAL03    Fermilab                                  VMS
+FNAL05    Fermilab                                  VMS
+FNAL17    Fermilab                                  VMS
+FNAL26    Fermilab                                  VMS
+FNAL27    Fermilab                                  VMS
+FNACP     Fermilab                                  VMS
+FNALAD    FERMILAB Ntl Lab                          VMS
+DHAFEU51  Fern-Uni Hagen (Informatik)               VMS
+DHAFEU61  Fern-Uni Hagen (Informatik)               UNIX BSD
+DHAFEU11  Fernuniversitaet Hagen                    IBM VM/SP R4
+DHAFEU52  Feruniversitaet Hagen                     VMS
+FINFUN    Finnish S Comp Ctr Espoo                  DEC VMS 4 1
+TRFIRAT   Firat Univ
+FSUSFS    Fl St U Spr-comp Frnt-end Sys             NOS
+FSURAI    FL State U Rsrch Instrtnl Sys             NOS
+FSUESR    FL State U Rsrch Sys                      NOS
+FSUSUP    FL State U Super Comp Sys                 VSOS
+NERVM     Florida NE Reg Data Ctr                   VM/SP
+NER       Florida NE Reg Data Ctr                   MVS/XA
+FSU       Florida State U                           VM/SP
+FANDM     Franklin and Marshall Coll                VMS
+FANDMA    Franklin and Marshall Coll                VMS
+FANDMB    Franklin and Marshall Coll                VMS
+FANDMC    Franklin and Marshall Coll                VMS
+FHCRCVM   Fred Hutchinson Cancer Res Ctr            VM/SP
+FHCRCVAX  Fred Hutchinson Cancer Res Ctr Div Clin ReVMS
+DB0DSS81  Freie Universitaet Berlin                 BS2000/PDN/TRANSIT-CD
+DB0FHI01  Fritz Haber Institut der Max Planck GesellNOS/BE 1.5
+DB0FUB03  FU Berlin ZEDAT CDC                       NOS/BE
+DB0FUB11  FU Berlin ZEDAT CDC, Germany              IBM VM/SP
+GALLUC    Gallaudet Univ Comp Svcs                  VMS
+GALLUA    Gallaudet Univ Comp Svcs                  VMS
+GALLUB    Gallaudet Univ Comp Svcs                  VMS
+GALLUD    Gallaudet Univ Comp Svcs                  VMS
+GALLUE    Gallaudet Univ Comp Svcs                  VMS
+FRGAN01   GANIL, Caen, France                       MAX32 REV A 1
+GECRDVM1  GE R&D                                    VM/SP
+CGEHCU61  Geneva Hospital, Switzerland              UNIX
+GMUVAX    George Mason U                            VMS
+GWUVM     George Washington U Comp Ctr              VM/SP
+GUVM      Georgetown U Acad CMS                     VM/SP
+GUVAX     Georgetown U Acad VAX                     VMS
+GSUMVS1   Georgia State U - MVS1                    MVS/XA
+GSUVM1    Georgia State U - VM1                     VM/SP
+GSUVM2    Georgia State Univ CC VM2                 VM/SP
+GITCDC4   Georgia Tech CAE/CAD Lab                  NOS
+GITVM2    Georgia Tech CAE/CAD Lab                  VM/SP
+GITCDC2   Georgia Tech Comp Svcs                    NOS
+GITCDC3   Georgia Tech Comp Svcs                    NOS
+GITATT1   Georgia Tech Computing Svcs               UNIX SYSTEM V
+GITCDC1   Georgia Tech Computing Svcs               NOS
+GITVM1    Georgia Tech Computing Svcs               VM/SP/HPO
+GITNVE2   Georgia Tech Computing Svcs               NOS/VE
+GTRI01    Georgia Tech Research Inst.               VM/SP
+DBNGMD21  Ges. Mathematik Datenv Bonn               MVS/SP
+DDAGMD11  Ges. Mathematik Datenv Darmstadt          IBM VM/SP R4
+DEARN     Gesellschaft fuer Schwerionenf            VM/SP
+DDAGSI3   Gesellschaft fuer Schwerionfor            IBM MVS/XA 2 1.3 VFE
+FRGETA11  GETA                                      VM/SP
+DGHGKSS4  GKSS, Geesthacht, Ger                     SIEMENS BS 3000 E 40
+SEGUC11   Gothenburg U Comp Ctr                     IBM VM/SP R2
+SEGUC21   Gothenburg U Comp Ctr                     IBM MVS/SP 1 3.3
+UKACRL    Great Britain EARN London                 IBM VM/SP R3
+FRPROG61  GRECO Programmation Bordeaux              DEC UNIX
+GRIN2     Grinnell College - Admin                  VMS
+GRIN1     Grinnell College Academic                 VMS
+FRGAG51   Groupe Astrophysique Grenoble             VMS
+DGAGRS2A  GRS Garching                              IBM MVS/XA
+DK0GRS11  GRS Koein                                 VM/SP
+DM0GSF11  GSF Muenchen                              VM/SP
+DM0GSF51  GSF-MEDIS                                 VMS
+DDAGSI5   GSI Darmstadt VAX                         VMS
+DDAGSI1   GSI Darmstadt, Germany                    IBM VM/SP R4 0
+DGOGWDG1  GWD Goettingen, Germany                   IBM VM/SP R4
+GWUVAX    GWU - School of Eng.                      VMS
+SEASVM    GWU - School of Eng. IBM                  VM/SP
+HADASSAH  Hadassah U Hospital                       DEC VMS
+DB0HMI41  Hahn-Meitner-Institut Kerforschung        BS3000
+HAIFAUVM  Haifa University                          IBM VM/SP R4 1
+HAMPVMS   Hampshire College                         VMS
+HUSC5     Harvard HASCS                             VMS
+HUARP1    Harvard U Atmos Res Project               VMS
+HARVBMB   Harvard U Biochem & Molecul Bio           UNIX BBN
+HARVBUS1  Harvard U Bus Sch                         VM/SP
+CFATA1    Harvard U CfA Thtrcl Astro                VMS
+HUCHE1    Harvard U Chemistry VAX1                  VMS
+HUCHE2    Harvard U Chemistry VAX2                  VMS
+HARVARD   Harvard U Computer Science                UNIX BSD
+CFA1      Harvard U Ctr Astrophysics                VMS
+CFA2      Harvard U Ctr Astrophysics                VMS
+CFA       Harvard U Ctr Astrophysics                VMS
+CFAAMP    Harvard U Ctr Astrophysics                VM/SP
+HARVPCNA  Harvard U Faculty Arts & Sciences         MS-DOS
+HUGSE1    Harvard U Grad Sch of Ed                  VMS
+HARVHEP   Harvard U High En Physics Lab             VMS
+HUHEPL    Harvard U High Energy Physics             VMS
+HARVARDA  Harvard U OIT                             VM/SP
+HARVUNXW  Harvard U Psychology Dept                 UNIX BSD
+HARVUNXC  Harvard U Psychology Dept                 UNIX
+HUROB1    Harvard U Robotics Lab                    VMS
+HARVUNXU  Harvard U Science Center                  UNIX BSD
+HARVSC7   Harvard U Science Ctr                     ULTRIX
+HARVSC5   Harvard U Science Ctr                     VMS
+HARVMA1   Harvard U Science Ctr                     UNIX BSD
+HARVSC8   Harvard U Science Ctr                     ULTRIX
+HUSC6     Harvard U Science Ctr                     UNIX
+HULAW1    Harvard U Science Ctr                     VMS
+HUSC3     Harvard U Science Ctr                     VMS
+HARVUNXT  Harvard U Sociology Dept                  UNIX BSD
+HARVSPHA  Harvard Univ Health Sci. Cmptng. Fac.     ULTRIX
+HARVSPHB  Harvard Univ Health Sci. Cmptng. Fac.     ULTRIX
+HARVSPHC  Harvard Univ Health Sci. Cmptng. Fac.     ULTRIX
+FOURCC    Harvey Mudd Col Comp Services             VMS
+HMCVAX    Harvey Mudd Col Comp Srvs                 VMS
+ECHMC     Harvey Mudd Col Eng Dept                  VMS
+FROSH     Harvey Mudd Col Eng Dept                  VMS
+YMIR      Harvey Mudd Col Math Dept                 VMS
+HVRFORD   Haverford Col Acad Comp Ctr               VMS
+DKHHA     HDC Aarhus                                VMS
+HUJINIX   Hebrew U Comp Cnt Unix                    UNIX BSD 4 2
+HBUNOS    Hebrew U Comp Ctr                         NOS
+HUJIVMS   Hebrew U Comp Ctr                         DEC VMS
+HUJICS    Hebrew U Computer Sci                     UTX 32
+HUJIAGRI  Hebrew U Faculty of Agriculture           DEC VMS
+HUJIFH    Hebrew U Fritz Haber Molec Dyna Ctr       UNIX BSD 4 2
+HUMUS     Hebrew U Jerusalem Comp Sc                UNIX BSD 4 2
+HUJINOS2  Hebrew U Jerusalem, Israel                NOS
+HUJIMD    Hebrew U Medical School                   DEC VMS
+BATATA    Hebrew U Molecular Ctr                    UNIX BSD 4 2
+HUJIPRMA  Hebrew U Mount Scopus Comp Ctr            PRIMOS
+HUJIPRMB  Hebrew U Mount Scopus Comp Ctr            PRIMOS
+HUJIVM1   Hebrew University                         VM/CMS
+FINGATE   Helsinki U Tech                           UNIX
+FINHUTA   Helsinki U Tech                           IBM VM/SP R4
+FINHUTC   Helsinki U Tech Finland                   IBM VM/SP R4
+FINHUT    Helsinki Univ of Tech                     VM/SP
+DDATHD21  Hoch TH Darmstadt                         MVS/SP
+DDOHRZ11  Hoch U Dortmund                           IBM VM/SP R3
+DHDIHEP5  Hochenergiephysik                         VMS
+DHIURZ1   Hochschule Hildesheim Germany             IBM VM/SP R4
+HOFSTRA   Hofstra Univ                              VMS
+HUMAIN    Howard Univ Central Comp                  MVS
+HUJIDS    HUJI Dental School                        DEC MICROVMS
+HUMBER    Humber College                            VM/SP
+IRMIAS    I Astrofisica Spaziale                    VM/SP
+IFIIDG    I Document Giurid Firenze                 VM/SP
+ITOIMGC   I Meteorologia Colonnetti                 VM/SP
+IRMCRA    I Richerche Aerospaziali                  IBM VM/SP
+IPVIAN    I.A.N.-CNR, Pava, Italy                   VM/SP
+IGEICE    I.C.E.-CNR, Genova, Italy                 CDC NOS 2 4.2
+FRIMFT11  I.M.F.                                    VM/SP
+FRURBB51  I.N.S.E.R.M.                              DEC VMS
+FRPGM11   I.U.T. Progem                             VM/SP
+ALMCSVM1  IBM Almaden Res Ctr                       VM/SP
+ALMCSVM2  IBM Almaden Res Ctr                       VM/SP
+ALMCSVM6  IBM Almaden Res Ctr                       VM/SP
+ALMCSVS5  IBM Almaden Res Ctr                       VM/SP
+ALMVMA    IBM Almaden Res Ctr                       VM/SP
+ALMVMB    IBM Almaden Res Ctr                       VM/SP
+ALMVMC    IBM Almaden Res Ctr                       VM/SP
+ALMVMZ    IBM Almaden Res Ctr                       VM/SP
+DS0IBM1   IBM EARN Coord.                           VM/SP
+ISRAEARN  IBM Israel SC - Haifa                     IBM VM/SP R3
+DS0LILOG  IBM LILOG Project Stuttgart               VM/SP
+ZURLVM1   IBM Research Lab Zurich                   IBM VM/SP
+EMDCCI11  IBM Scientific Center Madrid              IBM VM/SP R4
+JPNTSCVM  IBM Tokyo Research                        VM/SP
+VNET      IBM VNET Gateway                          VM/SP
+YKTVMV    IBM Watson Sci Res Ctr                    VM/SP
+WATSON    IBM Watson Sci Res Ctr                    VM/SP
+YKTVMT    IBM Watson Sci Res Ctr                    VM/SP
+YKTVMH    IBM Watson Sci Res Ctr                    VM/SP
+YKTVMX    IBM Watson Sci Res Ctr                    VM/SP
+YKTVMZ    IBM Watson Sci Res Ctr                    VM/SP
+TJWATSON  IBM Watson Sci Res Ctr                    VM/SP
+YKTVMH2   IBM Watson Sci Res Ctr Yorktwn            VM/SP
+DHDIBM1   IBM Wissenschaftliches Zentrum            VM/SP
+DHDIBM1W  IBM WZH & ENC Heidelberg                  VM/SP
+FRIBCP51  IBMC, Strasbourg, France                  DEC VMS
+SELIUI51  IDA Linkoping, Sweden                     DEC VMS
+BBRIBM11  IEC, La Hulpe, Belgium                    VM/HPO
+AWIIEZ11  IEZ Numerischer Rechner, Wien             IBM VM/SP R4
+DHVIFW1   IFW, Univ Hannover, Germany               IBM VM/SP R4
+ECNCDC    Illinois Board of Governors               NOS
+IITVAX    Illinois Inst Tech/ACC                    VMS
+INDST     Indiana State Univ                        VM/SP
+IUBACS    Indiana U Bloomington ACS                 VMS
+IUP       Indiana U of Penn                         HONEYWELL CP-6 C00
+IUCF      Indiana Univ Cyclotron Facil              VMS
+IUBUS     Indiana Univ Sch of Business              VM/SP
+INDYVAX   Indiana/Purdue U                          VM/SP
+INDYCMS   Indiana/Purdue U                          VM/SP
+INDYMED   Indiana/Purdue U                          VM/SP
+IRMEMU    INFN - EMU, Roma, Italy                   IBM VM/SP R4
+IPIVAXIN  INFN - Pisa                               DEC VMS
+IPIINFN   INFN Pisa                                 IBM VM/SP R4
+IRMLNF    INFN/LNF                                  DEC VMS 4 4
+ILNPL     INPL, Israel                              DEC VMS
+FRINRA11  INRA - CTIG                               IBM VM/SP R4
+FRINRA72  INRA - CTIS                               BULL MULTICS
+FRIRTS71  INRETS                                    BULL MULTICS
+FREIBA51  INSEAD                                    DEC VMS
+FRCCRM51  INSERM, Villejuif, France                 DEC VMS
+FRIAP51   Inst d'Astrophysique Paris                VMS
+PTIFM     Inst de Fisica e Matematica               VMS
+IMISIAM   Inst Fisica Cosmica Milano                VM/SP
+IASSNS    Inst for Advan Study                      VMS
+DBNMEB1   Inst fuer Med Statistik / Med EinrichtungeIBM VM/SP R5
+AWIIMC11  Inst Med Computwiss Uni Wien              IBM VM/SP HPO R4 2
+IRMISS    Instit Superiore di Sanita                VM/SP
+EBRIEC01  Institut d'Estudis Catalans               38 CPF
+DHDIHEP1  Institut fuer Hochenergiephysi            IBM VM/SP R4
+FRILL51   Institut Laue-Langevin                    VMS
+FRPSTR01  Institut Pasteur                          AOS/VS
+FRCPN11   IN2P3 Ctr de Calcul                       VM/SP
+IONAACAD  Iona College Comp Ctr                     VM/SP
+IONA      Iona College Music Sys                    VM/SP
+ALISUVAX  Iowa S U Ames Lab Dept Energy             VMS
+ISUMVS    Iowa State U Comp Ctr                     MVS/SP
+ISUEVAX   Iowa State U Eng. VAX Cluster             VMS
+ISUVAX    Iowa State VAX Cluster                    VMS
+DGAIPP5N  IPP (MPI f. Plasmaphysik)                 VMS
+TRITU     Istanbul Tech Univ                        IBM VM/SP R3
+TRITU2    Istanbul Technical Univ                   IBM VM/SP R3
+TRIUVM11  Istanbul Univ
+ITHACA    Ithaca College                            VMS
+ICUNIX    Ithaca College                            ULTRIX
+JAXLAB    Jackson Lab                               UNIX BSD
+JMUVAX1   James Madison Univ VAX1                   VMS
+ILJCT     Jerusalem Col Tech                        DEC VMS
+JHUNIX    JHU HCF                                   UNIX
+JHUVM     JHU HCF                                   VM/SP
+JHUVMS    JHU HCF                                   VMS
+JHHVM     JHU Hosp Info Sys Dept                    VM/SP
+JHUHYG2   JHU School of Public Health               ULTRIX
+ALIJKU21  Johannes Kepler U Linz                    MVS/SP
+JCUVAX    John Carroll Univ                         VMS
+JCVAXA    John Carroll Univ                         VMS
+JVNCC     John Von Neumann Ctr                      VMS
+JVNCD     John Von Neumann Ctr                      VMS
+JVNC      John Von Neumann Ctr                      VMS
+JHUHYG    Johns Hopkins U                           VM/SP
+JHUP      Johns Hopkins U High En Phys              VMS
+JHUIGF    Johns Hopkins Univ - IGF                  VMS
+APLVM     Johns Hopkins Univ App Phys Lab           VM/SP
+JILA      Joint Inst for Lab Astrophysics           VMS
+JPNKIT    Kanazawa Inst. of Tech.                   VM/SP
+KSUVAX1   Kansas St U Comp Sci Dept                 UNIX BSD
+HRDKSW5   Kapteijn Sterrenwacht Roden               DEC VMS 4 3
+BLEKUL11  Kath U Leuven                             VM/SP
+BLEKUL21  Kath U Leuven                             IBM MVS/SP 2 1.7
+BLEKUL60  Kath Univ Leuven                          UNIX BSD
+HTIKHT5   Katholieke Hoges Tillburg                 VMS
+BLEKUL10  Katholieke U Leuven Mech Eng              VM/SP
+HNYKUN54  Katholieke U Nijmegen                     VMS
+HNYKUN55  Katholieke U Nijmegen                     VMS
+HEARN     Katholieke U Nijmegen                     IBM VM/SP R4
+HNYKUN11  Katholieke U Nijmegen                     IBM VM/SP HPO 4 2
+HNYKUN22  Katholieke U Nijmegen                     MVS/SP
+HNYKUN51  Katholieke U Nijmegen                     VMS
+HNYKUN53  Katholieke U Nijmegen                     VMS
+HTIKUB5   Katholieke Uni Brabant                    DEC VMS 4 N
+HTIKUB51  Katholieke Univ                           VMS
+HNYKUN52  Katholieke Universiteit Nijmegen          VMS
+KENTASHT  Kent S U Ashtabula                        VMS
+KENTELIV  Kent S U East Liverpool                   VMS
+KENTGEAU  Kent S U Geauga                           VMS
+KENTVM    Kent S U Info Services                    VM/SP
+KENTVMS   Kent S U Info Services                    VMS
+KENTGOLD  Kent S U Info Services                    VMS
+KENTSALM  Kent S U Salem                            VMS
+KENTSTAR  Kent S U Stark                            VMS
+KENTTRUM  Kent S U Trumbull                         VMS
+DJUKFA11  Kernforsch Juelich                        IBM VM/SP HPO R4 2
+DJUKFA21  Kernforsch Juelich                        IBM MVS/XA
+DJUKFA51  Kernforsch Juelich                        VMS
+DKAKFK3   Kernforsch Karlsruhe                      MVS/SP
+DJUKFA53  Kernforschungsanlage Juelich G            VMS
+HGRRUG51  Kernfysisch Versn Inst                    DEC VMS 4 2
+DJUKFA54  KFA Juelich - IFF                         VMS
+DJUKFA52  KFA Juelich - IPP                         VMS
+DKAKFK11  KFK Karlsruhe                             IBM VM/SP
+DB0ZIB21  Konrad Zuse Zentrum Infor                 MVS/SP
+JPNKEKVM  Kou Enerugi Ken, Tsukuba Japan            VM/SP
+KSUVM     KSU Computer Center                       VM/SP
+BLEKUL13  KUL CME                                   VM/SP
+JPNKYOTO  Kyoto Univ Dept of Info                   VM/SP
+FRSOL11   L.P.S.O., Orsay, France                   IBM VM/SP
+FRLAAS61  LAAS Toulouse France                      DEC ULTRIX 2 0
+LNCCVM    Lab Nat'l Comp Cientificia                VM/SP
+FRPOLY52  Labo Physique Nucl Haute Eng              VMS
+LAFAYETT  Lafayette College                         UNIX
+LAKEHEAD  Lakehead U                                UNIX
+LUSUN     Lakehead U                                SUN UNIX
+LUVMS     Lakehead U                                MICROVMS 4 5
+FRLAL51   LAL, Orsay, France                        DEC VMS 4 5
+HWALHW5   Landbouwhogeschool Wageningen             VMS
+HWALHW50  Landbouwuniv Wageningen                   VMS
+FRLAPP51  LAPP, Annecy, France                      DEC VMS
+FRLASM51  LAS Marseille France                      DEC VMS
+FRLASH51  LASH-ENTPE                                DEC VMS
+LAUVAX01  Laurentian University                     VMS
+LAUCOSC   Laurentian University                     VMS
+LAUADMIN  Laurentian University                     VMS
+LAVALVM1  Laval U                                   VM/SP
+SELDC51   LDC Lund, Sweden                          DEC VMS
+SELDC52   LDC Lund, Sweden                          DEC VMS
+LEHICDC1  Lehigh Univ CC - Cyber 850                NOS
+LEHIIBM1  Lehigh Univ Comp Ctr - IBM4381            VM/SP
+LEHIGH    Lehigh Univ Comp Ctr - Ntwk Server        MUSIC
+LCVAX     Lehman Col Acad Comp Ctr                  VMS
+DM0LRZ01  Leibniz Rechenzentrum Muenchen            CDC NOS 2 5
+SELIUC51  LIDAC Linkoping, Sweden                   DEC VMS
+FRLIM51   LIMSI-CNRS, Orsay, France                 DEC VMS
+FRFLU51   LMFA                                      DEC VMS
+LIUVAX    Long Island Univ                          VMS
+LAMPX1    Los Alamos Nat'l Lab                      VMS
+LSUENG    Louisiana St U Coll Eng                   NOS
+LSUMVS    Louisiana St U Comp Ctr                   MVS/SP
+LSUVM     Louisiana St U Comp Ctr                   VM/SP
+LSUCHE    Louisiana State Univ Chem Eng VM          VM/SP
+LOYVAX    Loyola College, MD                        VMS
+LUCCPUA   Loyola U of Chicago                       MVS/SP
+NNOMED    LSU Med Ctr - New Orleans                 MVS/XA
+NSHMED    LSU Med Ctr - Shreveport                  MVS/XA
+BDILUC11  LUC, Diepenbeek                           VM/SP
+IRMLUISS  LUISS Roma                                IBM VM/SP R3 1
+FRLURE51  LURE                                      VMS
+LBL       Lwrce Berkly Lab Comp Serv                VMS
+MACALSTR  Macalester College                        VMS
+FARMNTON  Maine - Farmington Comp Ctr               VM/SP
+MSUS1     Mankato State                             VMS
+MARIST    Marist Col                                VM/SP
+MARISTC   Marist Col                                MUSIC
+MARISTA   Marist Col                                MUSIC
+MARISTB   Marist Col                                MUSIC
+MUCSD     Marquette Univ                            VMS
+MUVMS1    Marshall U Comp Ctr                       VMS
+MITVMA    Mass Inst of Tech Info Sys                VM/SP
+MITLNS    Mass Inst of Tech.                        VMS
+SLOAN     Mass Inst Tech Sloan Sch of Mgmt          VM/SP
+DK0UMI1   Mathem Institut Univ Koein                IBM VM/SP R4
+DM0MPI11  Max Planck I Physik Astrophysi            VM/SP
+DGAMPE5D  Max Planck Inst Extraterr Physik          VMS
+HNYMPI51  Max Planck Inst Nijmegen                  DEC VMS
+DM0MPF11  Max Planck Inst Psych Forsch              VM/SP
+HNYMPI52  Max Planck Inst., Nijmegen, NL            DEC VMS 4 3
+DGAIPP1S  Max-Planck-Institut fuer Plasm            VM/SP
+MCGILLB   McGill U                                  MUSIC
+MCGILLC   McGill U                                  MUSIC
+MCGILLA   McGill U Comp Centre                      MUSIC
+MCGILL2   McGill U Comp Centre                      VM/HPO
+MCGILL1   McGill U Comp Ctr                         VM/SP
+MCGILLM   McGill U MUSIC Prod Group                 MUSIC
+MCGILL3   McGill U MUSIC Prod Group                 VM/SP
+MCGILLVS  McGill Univ CC                            MVS/SP
+MUSOCS    McGill Univ Comp Sci                      UNIX
+MCMASTER  McMaster U Acad Comp Svcs                 VMS
+TANDEM    McMaster Univ                             VMS
+MCMVM1    McMaster Univ Acad Comp Svcs              VM
+MCOIARC   Med Col Ohio Img Anal Res Ctr             VMS
+MUSCVM    Med U S Carolina Info Rsrcs Mgmt          VM/SP
+MCO       Medical College of Ohio                   VM/SP
+MUN       Memorial U. of NF                         VMS
+MIAMIU    Miami U Academic Comp Service             VM/SP
+MSU       Mich State Univ. Computer Lab             VM/SP
+MSUEGR    Mich State Univ. Engineering              VMS
+MTUVAXC   Michigan Tech Univ Comp Sci Res VAX       UNIX
+MTUVAXB   Michigan Tech Univ Computer Sci           UNIX
+MTUVAXA   Michigan Tech Univ Ctr for Exper Comp     VMS
+MTUS5     Michigan Tech Univ Sys 5                  VM/SP
+TRMETU    Middle East Tech Uni Ankara               MCP
+MIDD      Middlebury College                        VMS
+TWNMOE10  Ministry of Ed Taiwan                     VM/SP
+MITWCCF   MIT - Whitaker College Health Sci, Tech & VMSt
+MITVMC    MIT Admin VM/CMS                          VM/SP/HPO
+MITVMD    MIT Admin VM/CMS                          VM/SP
+MITVBUD   MIT Budget, Actng, & Sponsos Programs     VMS
+MITVDEV   MIT VAX/VMS Dev                           VMS
+MITWIBR   MIT Whitehead Instit for Biomed Res       NOS
+MITBATES  MIT Wm. Bates Linear Accel Lab            VMS
+TECMTYVM  Monterrey Inst of Tech                    VM/SP
+TECMTYSB  Monterrey Inst of Tech                    VM/SP
+VMTECMEX  Monterrey Instit of Tech                  VM/SP
+VMTECQRO  Monterrey Instit of Tech Queretaro        VM/SP
+MONTCOLA  Montgomery Coll                           VM/SP
+MONTCOLB  Montgomery Coll                           VM/SP
+MTAM      Mount Allison U                           MUSIC
+MTA       Mount Allison U Comp Ctr                  VM/SP RELEASE 3
+DM0MPB51  MPI Biochemie Muenchen                    DEC VMS 4 4
+DMZMPI5P  MPI Chemie                                VMS
+DHHMPI5D  MPI Fuer Meteorologie Hamburg             VMS
+DHDMPI5   MPI Kernphysik Heidelberg                 VMS
+DHDMPI5U  MPI Kernphysik Heidelberg                 VMS
+DHDMPI5V  MPI Kernphysik Heidelberg                 VMS
+DHDMPI5D  MPI Kernphysik Heidelberg                 DEC MICROVMS 4 5
+DGAIPP5D  MPI Plasmaphysik Garching                 VAX VMS 4 5
+DS0MPI11  MPI Stuttgart, Germany                    VM/SP
+MSUKBS    MSU KBS                                   VMS
+MSUNSCL   MSU NSCL                                  VMS
+MSUPA     MSU Physics Dept                          VMS
+MSVU      Mt St Vincent U                           VMS
+MSRCVAX   Mt. Sinai Sch of Med Res Comp of CUNY     VMS
+NCSUECE   N Caro S U Dept Elec Com Eng              VMS
+NCSUNE    N Caro S U Dept of Nucl Eng               VMS
+NIU       N Ill U                                   MVS
+NIUENG    N Ill U                                   VM/SP
+UMDNJVM1  N J Univ. Med & Dent                      VM/SP
+NTSMUSIC  N Texas S U MUSIC
+NTSUVM1   N Texas St U Comp Ctr                     VM/SP
+JPNNUCBA  Nagoya Univ of Commerce                   VM/SP
+NASAGISS  NASA Goddard Inst Space Stud              VM/SP
+IAFBIT    NASA GSFC Image Analysis Fac              VMS
+SCFMVS    NASA Space & Earth Sci CC                 MVS/SP
+SCFVM     NASA Space & Earth Sci CC                 VM/HPO
+VPFMVS    NASA Space & Earth Sci CC                 MVS/SP
+VPFVM     NASA Space & Earth Sci CC                 VM/SP
+NIEHS     Nat'l Instit of Environ Health Sci        VMS
+NRAO      Nat'l Radio Astronomy Observ.             VMS
+NIHCUDEC  National Institutes of Health (DEC-10)    TOPS-10
+NIHCU     National Institutes of Health (IBM 370)   MVS/XA
+NIHCUTST  National Institutes of Health (Test/Dev)  MVS/XA
+NIHDCRT   National Institutes of Health DCRT        3PLUS
+NIHKLMB   National Institutes of Health, NIDDK/LMB  VMS
+TSSNRC00  National Res Council                      TSS/370
+NRCNET    National Research Council                 VAX/VMS
+NRCCAD    National Research Council                 VAX/VMS
+MVSNRC00  National Research Council                 MVS/XA
+ICNUCEVM  National U Comp Ctr - Pisa                VM/SP
+ICNUCEVS  National U Comp Ctr - Pisa                IBM MVS
+NUSVM     National Univ of Singapore                CMS HPO
+NUSEEV    National Univ of Singapore                VMS
+NUSDISCS  National Univ of Singapore                VMS
+NUS3090   National Univ of Singapore                CMS HPO
+ILNCRD    Natl Cncl Res Dev MSD                     DEC VMS
+ILNITE    Natl Inst for Test and Eval               DEC VMS
+NRCVM01   Natl Res Cncl Canada Comp Ctr             VM/SP
+NRCMVS00  Natl Res Council                          MVS/XA
+NAVPGS    Naval Postgrad Sch                        VM/SP
+DKNBI01   NBI                                       DEC VMS 4 4
+GUNBRF    NBRF/ Georgetown Univ Med Ctr             VMS
+NBS       NBS Consolidated Scie Comp Sys            NOS
+NBSENH    NBS Ex. Networks Host                     VMS
+NCSUPHYS  NC State Univ                             VMS
+NDSUVM1   ND Higher Ed Computer Net                 VM/SP
+NDSUVAX   ND Higher Ed Computer Net                 UNIX
+NEVIS     Nevis Lab, Columbia U                     VMS
+NJECNVM   New Jersey Edu Computer Net               VM/SP
+NJECNVS   New Jersey Edu Computer Net               MVS/SP
+ORION     New Jersey Tech-CCCC                      VM/SP
+NMSUMVS1  New Mexico St U Comp Ctr                  MVS/SP
+NMSUVM1   New Mexico St U Comp Ctr                  VM/SP
+NMSU      New Mexico St U Comp Ctr                  SUNOS
+NYSPI     New York Psych Inst                       VM/SP
+NYUACF    New York U Academic Comp                  VMS
+NYUACF7   New York U Academic Comp                  VMS
+NYUACF1   New York U Academic Comp                  VMS
+NYUACF6   New York U Academic Comp                  VMS
+NYUCIMSA  New York U CIMS                           VM/SP
+NYUCCVM   New York U Comp Ctr                       VM/SP
+NYUCMCL1  New York U Courant Math & Comp. Lab       VMS
+DKNBI51   Niels Bohr Institute, Denmark             DEC VMS 4 4
+JPNNIHOC  Nihon U Col of Commerce                   VM/SP
+UMDNJPW1  NJ Univ Med & Dent                        VSE/SP
+UMDNJVM2  NJ Univ of Med & Dent                     VM/SP
+NCSUVAX   North Carolina St U                       VMS
+NCSUMEAS  North Carolina St U                       VMS
+NCSUSTAT  North Carolina St U                       VMS
+NCSUCHE   North Carolina St U Chem Engr             VMS
+NCSUVM    North Carolina St U Comp Ctr              VM/SP4
+NCSUMAE   North Carolina St U Engr Dept             VM/SP
+NCSUIE    North Carolina St U Indus Engr            VMS
+NCSUMTE   North Carolina St U Mat Engr              VMS
+NCSUMAEV  North Carolina St U Mech Aero Engr        VMS
+NCSUADM   North Carolina State U                    MVS/SP
+NCSUMATH  North Carolina State U                    VM/SP4
+NCSUCE    North Carolina State Univ CE              VMS
+NTSUVAXA  North Texas State Univ VAX A              VMS
+NTSUVAXB  North Texas State Univ VAX B              VMS
+NEMOVM    Northeast Missouri State Univ             VM/SP
+NEUVMS    Northeastern U Dept Physics               VMS
+NAUVM     Northern Arizona Univ                     VM/SP HPO
+NUACC     Northwestern Univ Vogelback Comp Ctr      VMS
+NRCBSP    NRC Bilogical Sciences Protein            VAX/VMS
+NRCHEM    NRC Chemistry Division                    VAX/VMS
+NRCDAO    NRC Dominion Astrophysical Obs            VAX/VMS
+NRCRAO    NRC Dominion Radio Astro Obs              VAX/VMS
+NRCHEP    NRC High Energy Physics                   VAX/VMS
+NSF       NSF                                       UNIX
+CERAMICS  NYSC of Ceramics at Alfred Univ           VMS
+NYBVX1    NYU Graduate Business School              VMS
+ORNLSTC   Oak Ridge Nat'l Lab                       VMS
+CESARVAX  Oak Ridge Natl Lab Ctr Engg Sys Adv Res   VMS
+FRONI51   Observatoire - Nice                       VMS
+FROBES51  Observatoire de Besancon, Fran            DEC VMS
+FROBOR51  Observatoire de Boreaux                   DEC VMS
+FROHP51   Observatoire de Haute Provence            DEC VMS
+FROMRS51  Observatoire de Marseille, Fr             DEC VMS
+FRMEU51   Observatoire de Paris, Meudon             VMS
+FRNEAB51  OCDE                                      DEC VMS
+OCLCRSUN  OCLC                                      UNIX 4.2 BSD
+OHSTVMB   Ohio State U CAD/CAM                      VM/SP
+OHSTCH    Ohio State U Chem Dept VAX                VMS
+OHSTHR    Ohio State U Ctr for Human Resource Res   VMS
+OHSTMVSA  Ohio State U IRCC                         MVS/SP
+OHSTVMA   Ohio State U IRCC                         VM/SP
+OHSTPY    Ohio State U Physics Dept.                VMS
+OHSTPHRM  Ohio State Univ Coll of Pharm             VM/SP
+OUACCVMB  Ohio Univ Athens                          VM/SP
+OUACCVMA  Ohio Univ, Athens                         VM/SP
+JPNONRI   Okazaki Nat'l Res Instit                  VMS
+OSUCC     Oklahoma State Univ CC                    MVS/XA
+ODUVM     Old Dominion U                            VM/SP
+HHEOUH51  Open Universiteit Heerlen                 DEC VMS 4 4
+DBNUOR1   Operations Research Bonn                  IBM VM/SP R4
+ORI       Oregon Res Inst                           VMS
+ORSTATE   Oregon State U Comp Ctr                   NOS
+JPNOIT10  Osaka Inst of Tech                        VM/SP
+JPNOSAKA  Osaka Univ Ed Ctr                         VM/SP
+FINOU     Oulu Univ                                 VM/SP
+FRPQT51   P.Q.T., Toulouse, France                  DEC VMS
+IPDUNIV   Padova U Comp Ctr                         IBM VM/SP
+PANAM2    Pan American Univ                         VMS
+PANAM1    Pan American Univ                         VMS
+PANAM     Pan American Univ                         VMS
+PSUVALM   Penn S U Comp Sci VLSI Dev                UNIX BSD
+PSUARCH   Penn St U Arch Comp Lab                   VMS
+PSUACL    Penn St U Arch Computer Lab               VMS
+PSU2020   Penn St U Engr Comp Lab                   TOPS-20
+PSUECLC   Penn St U Engr Comp Lab                   VMS
+PSUECLA   Penn St U Engr Comp Lab                   VMS
+PSUECLB   Penn St U Engr Comp Lab                   VMS
+PSUHCX    Penn St U Engr Comp Lab                   UNIX
+PSUDAV01  Penn State - Chemistry                    VM/SP
+PSUPEN    Penn State Agric Ext Net                  VMS
+PSUARLB   Penn State Applied Res Lab                VMS
+PSUARLC   Penn State Applied Res Lab                VMS
+PSUARLA   Penn State Applied Res Lab                VMS
+PSULEPS   Penn State Elmnt Particle Lab             VMS
+PSULEPSI  Penn State Elmnt. Particle Lab            VMS
+PSULEPSR  Penn State Elmnt. Particle Lab            VMS
+PSUPTI    Penn State Engin. Computer Lab            VM/SP
+PSUECL2   Penn State Engin. Computer Lab            VM/SP
+PSUVAXG   Penn State U                              UNIX BSD
+PSUVAXS   Penn State U                              UNIX BSD
+PSUDG1    Penn State U                              AOS/VS
+PSUALT    Penn State U Altoona                      VMS
+PSUED1    Penn State U Coll of Ed                   VMS
+PSUVM     Penn State U Comp Ctr                     VM/SP
+PSUDEC10  Penn State U Eng Comp Lab                 TOPS-10
+PSUHMC    Penn State U Hershey Med Ctr. Res. Cmptng VM/SP
+PSUHMED   Penn State U Hershey Med Ctr. Res. Cmptng VMS
+PSUMVS    Penn State University                     MVS/SP
+PSUPDP1   Penn State University                     UNIX R6
+PSUVALP   Penn SU Comp Sci VLSI Dev                 UNIX BSD
+PSUVAX1   Pennsylvania State U                      UNIX BSD
+CPWPSCA   Pgh Supercomputer Ctr                     VMS
+CPWPSCB   Pgh Supercomputer Ctr                     VMS
+DMRHRZ11  Philipps-Universitaet Marburg             IBM VM/SP R4 0
+DHDPHY5   Physikalisches Institut                   VMS
+DBNPIB5   Physikalisches Institut der U Bonn        VAX VMS 4.2
+ITOPOLI   Politecnico di Torino                     VMS
+ITOPOLI3  Politecnico di Torino                     VMS
+ITOPOLI4  Politecnico di Torino                     VMS
+ITOPOLI1  Politecnico di Torino                     VMS
+ITOPOLI2  Politecnico di Torino                     VMS
+IMIPOLI   Politecnico Milano                        VM/SP
+POLYTECH  Polytechnic U Comp Ctr                    VM/SP
+POLYGRAF  Polytechnic U Comp Ctr                    VM/SP
+POMONA    Pomona Col Comp Ctr                       VM/SP
+PCMATH    Pomona Col Mathematics Dept               VMS
+PSUORVM   Portland State Univ CC                    VM/SP
+PRATT     Pratt Institute Comp Ctr                  PRIMOS
+PPLCATS   Princeton Univ PLasma Phys. Lab           VM/SP
+PUCC      Princeton University                      VM/SP
+PUFORBES  Princeton University                      VM/SP
+PUICGL    Princeton University                      VM/SP
+PUNFS     Princeton University                      VM/SP
+PU1879    Princeton University                      VM/SP
+PUMIS     Princeton University                      VM/SP
+PSUCES    PSU Commonwealth Ed Sys                   VMS
+DHIAVM    PSU Dairy Herd Improv. Assn.              VM/SP
+PSULIAS   PSU Library Info Access Sys               HONEYWELL CP-6
+PSUADMIN  PSU Mgmt. Srvs                            MVS/XA
+PURCHE    Purdue U Chem Engr Dept                   VM/SP
+PURCCVM   Purdue U Comp Ctr                         VM/SP
+PURVLSI   Purdue U EE VLSI Lab                      VM/SP
+QUCDNEE1  Queen's Electrical Engineering            VMS
+QCVAXA    Queens College CUNY                       VMS
+QCVAXB    Queens College CUNY                       VMS
+QCVAXC    Queens College CUNY                       VMS
+QCUNIX    Queens College CUNY                       ULTRIX
+QCVAX     Queens College CUNY                       VMS
+QUCDNCMC  Queens U Can Microelec Corp               VMS
+QUCDNAST  Queens Univ Astronomy                     VMS
+QUCIS     Queens University                         UNIX
+QUCDN     Queens University                         VM/SP
+QUCDNSUR  Queens University Surgery                 VMS
+DKARH01   RECAU, Aarhus, Denmark                    CDC NOS 2 4.1-630/628
+DACTH51   Rechenzentrum der RWTH Aachen             VMS
+DKAUNI11  Rechenzentrum U Karlsruhe                 IBM VM/SP R4
+DKAUNI46  Rechenzentrum U Karlsruhe                 SIEMENS MSP20
+DKAUNI48  Rechenzentrum U Karlsruhe                 SIEMENS MSP20
+RCN       Regents Computer Network                  NOS
+GREARN    Research Ctr of Crete                     VM/SP
+RLG       Research Libraries Grp                    MVS/SP
+RHODES    Rhodes College CC                         VMS
+DKLUNI01  RHRK Kaiserslautern                       SIEMENS BS3000 MSP
+DKLUNI85  RHRK Kaiserslautern, Germany              SIEMENS BS2000
+DKLUNI86  RHRK Kaiserslautern, Germany              SIEMENS BS2000
+DBNUZR1A  RHRZ Uni Bonn, Germany                    IBM VM/SP HPO R4.2
+RICECSVM  Rice U Comp Sci Dept.                     VM/SP
+RICE      Rice Univ ICSA                            VM/SP
+ITORIPTO  Ricerch e Progetti Torino                 VM/SP
+BGERUG51  Rijks Univ                                VMS
+HLERUL52  Rijksuniver Leiden Gorl Lab               VMS
+RITVM     RITISC                                    VM/SP HPO
+RITVAXA   Rochester Inst of Tech                    VMS
+RITVAXB   Rochester Inst of Tech                    VMS
+RITVAXC   Rochester Inst of Tech                    VMS
+RITVAXD   Rochester Inst of Tech                    VMS
+RITVAXN   Rochester Inst of Tech                    VMS
+RITVAX    Rochester Inst of Tech                    VMS
+RITVAXO   Rochester Inst of Tech (NTID)             VMS
+RITVAXL   Rochester Inst of Tech.                   VMS
+ROCKVAX   Rockefeller University                    UNIX BSD
+ROHVM1    Rohm & Haas Co                            VM/HPO
+RMC       Royal Military College                    CP-6
+RPICMPVM  RPI Ctr Mfg Prod                          VM/SP
+RPICICGD  RPI Graphics Center                       VM/SP
+RPICICGE  RPI Graphics Center                       VM/SP
+RPITSMTS  RPI Info Tech Srvs                        MTS/XA DIST 5.1C
+RPITSGW   RPI Info Tech Srvs                        UTX
+DHVRRZN0  RRZN, Univ Hannover, Germany              CDC NOS
+DHVRRZN1  RRZN, Univ Hannover, Germany              IBM VM/SP R4 0
+DBORUB01  Ruhr-Univ Bochum                          CDC NOS/VE
+RUTHEP    Rutgers U High Energy Physics             VMS
+RUTGERS9  Rutgers Univ CCIS MVS                     MVS/SP
+CANCER    Rutgers Univ CCIS VAX                     VMS
+ZODIAC    Rutgers Univ CCIS Vax Clust               VMS
+RUTVM1    Rutgers Univ CCIS VM1                     VM/SP
+BIOVAX    Rutgers Univ Molecular Bio Comp Lab       VMS
+DACTH01   RWTH Aachen, Germany                      CDC NOS 2 4
+RYERSON   Ryerson                                   VM/SP
+DWUUNI21  RZ Uni Wuerzburg, Germany                 IBM MVS 2 8
+SERVAX    S Reg Data Ctr                            VMS
+SER       S Reg Data Ctr Tamiami Campus             OS 1100
+SLUVCA    Saint Louis Univ                          VMS
+SALK      Salk Instit                               VMS
+SHSUTHOR  Sam Houston State Univ                    VMS
+SHSU      Sam Houston State Univ                    VMS
+SHSUODIN  Sam Houston State Univ                    VMS
+SAMFORD   Samford Univ                              VM/SP
+SDSC      San Diego Supercomputer Ctr               VMS
+SCU       Santa Clara Univ                          VMS
+HASARA11  SARA Amsterdam, Netherlands               IBM VM/SP R4
+JPNSUT50  Scienc U Tokyo Y J Coll                   VM/SP
+JPNSUT00  Science U of Tokyo                        VM/SP
+JPNSUT40  Science U of Tokyo                        VM/SP
+JPNSUT31  Science U of Tokyo Noda                   VMS
+JPNSUT10  Science U Tokyo - Japan                   VM/SP
+JPNSUT20  Science U Tokyo - Japan Kagurazaka        VM/SP
+JPNSUT30  Science U Tokyo - Japan, Noda             VM/SP
+JPNSUT3A  Science U Tokyo - Japan, Noda             MUSIC
+JPNSUT01  Science Univ of Tokyo                     VM/SP
+BMLSCK11  SCKCEN Mol Belgium                        IBM VM/SP R4
+IPISNSVA  Scuola Normale Superiore                  DEC VMS 4 3
+IPISNSIB  Scuola Normale Superiore                  VM/SP
+SENECA    Seneca College                            VMS
+FRESSI61  SERISI                                    ULTRIX
+SETONVM   Seton Hall U CC                           VM/SP
+SETONMUS  Seton Hall Univ CC                        VM/SP
+JPNSNU10  Setsunan Univ                             VM/SP
+SHERCOL1  Sheridan College                          VMS
+IMISIAM3  SIAM IFC, Milano, Italy                   IBM VM/SP HPO 4 0
+IMISIAM2  SIAM IFC, Milano, Italy                   IBM VM/SP HPO 4 0
+SFU       Simon Fraser U Comp Svcs                  MTS
+SFUVM     Simon Fraser U Comp Svcs                  VM/SP
+ITSSISSA  SISSA, Trieste, Italy                     UNIX UTX
+SKIDMORE  Skidmore College                          VMS
+SLACASP   SLAC ASP Experiment                       VMS
+SLACVM    SLAC Computer Center                      VM/SP
+SLACESA   SLAC End Station A                        VMS
+SLACHRS   SLAC High Res Spectrometer                VMS
+SLACMAC   SLAC Magnetic Calorimeter                 VMS
+SLACMKII  SLAC Mark-II Detector                     VMS
+SLACM2    SLAC Mark-II Detector                     VMS
+SLACMK3   SLAC Mark-III Detector Exp                VMS
+SLACPCR   SLAC PCR                                  VMS
+SLACSLC   SLAC SLC                                  VMS
+SLACSLD   SLAC SLD Detector                         VMS
+SLACCL1   SLAC SLD Detector                         VMS
+SLACTBF   SLAC TBF                                  VMS
+SLACTWGM  SLAC TCP/Two-Gamma Experiment             VMS
+SLACUCSD  SLAC TCP/2-Gamma Expt (UCSD)              VMS
+SLACTPCS  SLAC TPC/Two-Gamma Experiment             VMS
+SLACPHYS  SLAC TPC/Two-Gamma Experiment             VMS
+SLACUCD   SLAC 2-Gamma Experiment                   VMS
+SMITH     Smith College                             VMS
+SIVM      Smithsonian Instit                        VM/SP
+TWNSCU10  Soochow Univ                              VM/SP
+SIUCVMB   Southern Illinois U - Carbondale          VM/SP
+SIUEVM    Southern Illinois Univ Edwardsvl          VM/SP
+SMUVM1    Southern Methodist U ACC                  VM/SP
+SMSVMA    Southwest Missouri State Univ             VM/SP
+SMSVMB    Southwest Missouri State Univ             VM/SP
+SWTEXAS   Southwest Texas State Univ                VMS
+SWTNYSSA  Southwest Texas State Univ                VMS
+SWTTEGAN  Southwest Texas State Univ                VMS
+SLCSL     St. Lawrence College                      VM/CMS
+STMARYS   St. Mary's U                              VMS
+SESTAK    Stacken, KTH Sweden                       TOPS-10/7
+SSRL750   Stanford Synchrotron Rad Lab              VMS
+SUWATSON  Stanford U Acad Comp & Info Sys           VM/SP
+STANFORD  Stanford University                       MVS/XA
+SUCORONA  Stanford University                       VMS
+SUSOLAR   Stanford University                       UNIX
+SFAUSTIN  Stephen F. Austin State Univ              CP-6
+SITVXB    Stevens Inst Tech                         VMS
+SITVXA    Stevens Inst Tech                         VMS
+SITVXC    Stevens Inst Tech                         VMS
+HASARA5   Stichting Academ Reken Amsterdam          VMS
+SEQZ11    Stockholm U Comp Ctr                      IBM VM/SP R3
+SEQZ21    Stockholm U Comp Ctr                      IBM MVS/SP 1 3.1
+SEQZ51    Stockholm U Comp Ctr                      DEC VMS
+SESUF51   Stockholm Univ                            DEC VMS
+QZCOM     Stockholm Univ CC                         TOPS-10/7
+SEQZ01    Stockholm Univ CC                         CDC NOS 2 4.1 LEVEL 642
+SEQZ02    Stockholm Univ CC                         CDC NOS 2 4.1 LEVEL 642
+QZKOM     Stockholm Univ CC                         TOPS-10/7
+DBNISKP5  Strahlen-Kernphysik Uni Bonn              DEC VMS 4 4
+FRSUN11   SUNIST Bourgoin Jallieu                   IBM VM/SP HPO
+FRSUN23   SUNIST Bourgoin Jallieu                   IBM MVS
+FRSUN12   SUNIST, France                            IBM VM/SP
+SNYDELBA  SUNY Agr & Tech Coll at Delhi             MCP
+ALBNY1VX  SUNY Albany CC VMS                        VMS
+UBVMSC    SUNY Bflo CC                              VMS
+UBUNIX    SUNY Bflo CC                              UNIX BSD
+UBVMSD    SUNY Bflo CC                              VMS
+BINGVAXA  SUNY Binghamton                           VMS
+BINGVAXB  SUNY Binghamton                           VMS
+BINGVAXC  SUNY Binghamton                           VMS
+BINGVMA   SUNY Binghamton                           VM/SP
+BINGVMB   SUNY Binghamton                           VM/SP
+SUNYBING  SUNY Binghamton                           VM/SP
+BINGTJW   SUNY Binghamton Sch of Engr               VM/SP
+SUNYBCS   SUNY Buffalo Comp Sci Dept                UNIX BSD
+UBUNIXA   SUNY Buffalo Comptng Ctr.                 UNIX BSD
+SNYALFBA  SUNY College at Alfred                    MCP
+SNYBROBA  SUNY College at Brockport                 MCP
+BROCK1P   SUNY College at Brockport                 PRIMOS
+SNYBUFBA  SUNY College at Buffalo                   MCP 3.6.2
+SNYBUFVA  SUNY College at Buffalo                   VMS
+SNYCANBA  SUNY College at Canton                    MCP
+SNYCOBBA  SUNY College at Cobleskill                MCP
+SNYCORBA  SUNY College at Cortland                  MCP
+SNYFREBA  SUNY College at Fredonia                  MCP
+SNYGENBA  SUNY College at Geneseo                   MCP
+SNYNEWBA  SUNY College at New Paltz                 MCP
+SNYOLDBA  SUNY College at Old Westbury              MCP
+SNYONEBA  SUNY College at Oneonta                   MCP
+SNYOSWBA  SUNY College at Oswego                    MCP
+SNYPLABA  SUNY College at Plattsburgh               MCP
+SNYPOTBA  SUNY College at Potsdam                   MCP
+SNYFARBA  SUNY College Farmingdale                  MCP
+SNYMORBA  SUNY Morrisville                          MCP
+SBBIOVM   SUNY Stony Brook Biol Sci Comp            VM/SP
+SBCCVM    SUNY Stony Brook Comp Ctr                 VM/HPO
+SBCCMAIL  SUNY Stony Brook Comp Ctr Mail            VMS
+SUNYSBNP  SUNY Stony Brook Physics Dept             VMS
+UBVMSA    SUNY/Bflo CC                              VMS
+UBVM      SUNY/Bflo CC                              VM/SP
+UBVMSB    SUNY/Bflo CC                              VMS
+UBVMS     SUNY/Bflo CC                              VMS
+ALBNYVM1  SUNYA EETR VM1                            VM
+SWATPRM   Swarthmore College                        PRIMOS
+SEARN     Sweden EARN                               IBM VM/SP R3
+SUNSET    Syracuse U                                VMS
+SUNRISE   Syracuse U                                VMS
+SUCAD1    Syracuse U CAD/CAM                        VMS
+SUHEP     Syracuse U High Energy Phys               VMS
+SUZEUS    Syracuse Univ Comp. Sys.                  VM/SP HPO
+SUVM      Syracuse University                       VM/SP/HPO
+JPNTAMA0  Tamagawa Univ                             VM/SP
+FINTUTA   Tampere U Tech                            VMS
+TAMODP    TAMU ODP                                  VMS
+TAMAGEN   TAMU/AG Eng                               VMS
+TAMMVS1   TAMU/CSC                                  MVS/SP
+TAMVM1    TAMU/CSC                                  VM/SP/HPO
+TAMENTO   TAMU/ENTO                                 VMS
+TAMGEOP   TAMU/GEOP                                 VMS
+HDETUD2   Tech Hoogeschool Delft                    IBM MVS/SP 1 3.4
+HDETUD5   Tech Hoogeschool Delft                    DEC VMS 4 4
+HEITHE5   Tech Hoogeschool Eindhoven                VMS
+DB0TUI6   Tech U Berlin Infor KBS                   UNIX BSD
+DBSINF6   Tech U Braunschweig Info                  ULTRIX
+NEUMVS1   Tech U Denmark                            IBM MVS/XA
+NEUVM1    Tech U Denmark                            IBM VM/SP HPO R4 2
+DM0TUI1S  Tech U Informatik, Muenchen               VM/SP
+DDADVS1   Techn Darmstadt Fachber Inform            IBM VM/SP R3
+DKEARN    Technical U of Denmark                    IBM VM/SP HPO R4 2
+TUNS      Technical Univ of Nova Scotia             VMS
+TECHCDC   Technion - CDC                            NOS 2.4.3
+TECHMVS   Technion - Haifa                          MVS/SP
+TECHNION  Technion - Haifa                          IBM VM/SP HPO 4 2
+TECHSEL   Technion Dept Math - Haifa                UNIX
+TECHUNIX  Technion Dept of Math                     UNIX BSD 4 3
+TECHDPD   Technion, Haifa                           MVS/JES2
+HENTHT5   Technische Hogeschool Twente              VMS
+DB0TUI11  Technische U Berlin                       VM/SP
+DB0TUM11  Technische U Berlin Maschinen             VM/SP
+DB0TUZ01  Technische U Berlin Rechenzentrum         NOS
+DB0TUS11  Technische U Berlin Schiffs               VM/SP
+DCZRZTU0  Technische U Clausthal                    CGK BS 3
+TAUNIVM   Tel Aviv U Comp Ctr                       IBM VM/SP HPO R4 2
+TAUNOS    Tel Aviv U Comp Ctr                       NOS
+TAURUS    Tel Aviv U Comp Ctr                       UNIX BSD 4 2
+TAUENG    Tel Aviv U Eng Sch                        DEC VMS 4 2
+TAUPHY    Tel Aviv Univ Nuc Phys                    DEC VMS 3 7
+TEMPLEVM  Temple U Comp Activity                    VM/SP
+TMPLSUPR  Temple U Computer Activity                VM/SP
+TMPLCIS   Temple U Computer Activity                VMS
+TMPLNOS   Temple University Computer Activity       NOS
+TNTECH    Tennessee Tech Univ                       VMS
+TAMCGF    Texas A&M Engineering Graphics            VMS
+TAMCBA    Texas A&M U Acad Comp Ctr                 VM/SP
+TAMBIGRF  Texas A&M U Biochem                       VMS
+TAMCHEM   Texas A&M U Chemistry Dept                VMS
+TAMSTAR   Texas A&M U Comp Srvs Ctr                 VMS
+TAMVENUS  Texas A&M U Comp Srvs Ctr                 VMS
+TAMUNIX   Texas A&M U Computing SC                  UNIX
+TAMLSR    Texas A&M U CS/LSR                        VMS
+TAMTCSL   Texas A&M U EE-TCSL                       VMS
+TAMVXEE   Texas A&M U Electrical Engr               VMS
+TAMNIL    Texas A&M U Learning Tech Ctr             VMS
+TAMMEACA  Texas A&M U ME/CAD                        VMS
+TAMVXRSC  Texas A&M U MML                           VMS
+TAMVXOCN  Texas A&M U Oceanography Dept             VMS
+TAMPHYS   Texas A&M U Physics Dept                  VMS
+TAMCOMP   Texas A&M Univ Cyclotron Inst             VMS
+TAMSIGMA  Texas A&M Univ ECS                        VMS
+TAMLMSB   Texas A&M Univ LMSB                       VMS
+TAMTURBO  Texas A&M Univ TURBO                      VMS
+TCUAVM    Texas Christian Univ                      VM/SP
+TCUAMUS   Texas Christian Univ                      MUSIC/SP
+TCUAVMS   Texas Christian Univ                      VMS
+TCUBVM    Texas Christian Univ                      VM/SP
+TTUVM1    Texas Tech U Comp Facil                   VM/SP
+DTUPEV5A  Th Astrophysik Univ Tuebingen             DEC VMS 4 3
+HDETUD1   TH Delft, Netherlands                     IBM VM/SP
+HEITUE5   TH Eindhoven, Netherlands                 DEC VMS 4 5
+HEITUE51  TH Eindhoven, Netherlands                 DEC VMS 4 5
+JPNTOHOK  Tohoku Univ                               VM/SP
+JPNTKUVM  Tokyo Keizai U                            VM/SP
+TOWSONVX  Towson State Univ                         VMS
+TRANSY    Transylvania Univ                         MUSIC/SP
+TRENT     Trent University                          VMS
+TUCC      Triangle U Comp Ctr                       MVS/SP
+TUCCVM    Triangle U Comp Ctr                       VM/SP
+TUNL      Triangle Univ. Nuclear Lab                VMS
+TRINCC    Trinity College                           VMS
+TRINCC2   Trinity College                           VMS
+TRINITY   Trinity Univ Computing Ctr                VM/SP
+TRIUMFCL  TRIUMF Research                           VMS 4 5
+TRIUMFER  TRIUMF Research - ERICH                   VMS 4 5
+DB0TUI0   TU Berlin                                 XEXOX
+DB0PTZ1A  TU Berlin                                 VM/SP
+DB0TUI62  TU Berlin Informatik SWT                  ULTERIX 32M
+DBSTU1    TU Braunschweig, RZ, Germany              IBM VM/SP R4 SSI
+DBSNRV0   TU Braynscgweug, NRV-Gateway              XOS
+DCZTU1    TU Clausthal                              VM/SP
+HDETUD53  TU Delft                                  DEC VMS 4 5
+HDETUD52  TU Delft                                  DEC VMS 4 4
+HDETUD51  TU Delft                                  DEC VMS V4 4
+DGATUM5P  TU Muenchen Physik                        VMS
+TUFTS     Tufts U                                   VMS
+TCSVM     Tulane U Comp Svcs - VM                   VM/SP
+TCSMUSA   Tulane U Comp Svcs Music A                MUSIC
+TCSMVS    Tulane U Comp Svcs MVS                    MVS/SP
+AKRON     U Akron                                   MVS/SP 1.3.5
+AKRONVM   U Akron                                   VM/SP 4 HPO 4.2
+UABTUCC   U Alabama Birmingham                      MVS/SP
+UA1VM     U Alabama Comp Ctr                        VM/SP HPO
+UALTAMTS  U Alberta Comp Svcs MTS                   MTS
+UALTAVM   U Alberta Comp Svcs VM                    VM/SP
+EMDUAM11  U Autonoma Madrid Ctr Calc                VM/SP
+EB0UB012  U Barcelona Ctr Calculo                   VM/SP
+IMIBOCCO  U Bocconi Milano                          IBM VM/SP
+DBNVB12   U Bonn Chemische Inst                     VM/SP
+DBNUAMA1  U Bonn Inst Mathematik                    VM/SP
+DBNRHRZ1  U Bonn Reg Hochschul                      IBM VM/SP R4
+DBNRHRZ2  U Bonn Reg Hochschulrechenzent            MVS/SP
+UCIPPRO   U CA Irvine, Publ Policy Rsrch            VM/SP
+UCSFBCL   U CA San Fran Biochem Lab
+UCSFC255  U CA San Fran Clin Lab
+UCSFCCB   U CA San Fran Comp Ctr
+UCSFCGL   U CA San Fran Comp Grap Lab
+UCSFVIVO  U CA San Fran Infect Lab
+UCSFMIS   U CA San Fran Med Info Sci
+UCSFNMR   U CA San Fran Nuc Mag Reson Lab
+UNCAACTC  U Calgary A C.T. Centre                   MULTICS
+UCDASVM1  U Calgary Dept Admin Servs                VM/SP
+UCBEAR    U Calif Berkeley                          UNIX BSD
+UCBDOROT  U Calif Berkeley                          UNIX BSD
+UCBERNIE  U Calif Berkeley                          UNIX BSD
+UCBEROS   U Calif Berkeley                          UNIX BSD
+UCBBACH   U Calif Berkeley                          UNIX BSD
+UCBAMBER  U Calif Berkeley                          UNIX BSD
+UCBARPA   U Calif Berkeley                          UNIX BSD
+UCBDEAN   U Calif Berkeley                          UNIX BSD
+UCBDEGAS  U Calif Berkeley                          UNIX BSD
+UCBBERYL  U Calif Berkeley                          UNIX BSD
+UCBBIZET  U Calif Berkeley                          UNIX BSD
+UCBBRAHM  U Calif Berkeley                          UNIX BSD
+UCBBUDDY  U Calif Berkeley                          UNIX BSD
+UCBCAD    U Calif Berkeley                          UNIX BSD
+UCBCALDE  U Calif Berkeley                          UNIX BSD
+UCBCARTA  U Calif Berkeley                          UNIX BSD
+UCBCEVAX  U Calif Berkeley                          UNIX BSD
+UCBCORAL  U Calif Berkeley                          UNIX BSD
+UCBCMSA   U Calif Berkeley                          VM/SP HPO
+UCBCOGSC  U Calif Berkeley                          UNIX BSD
+UCBCORY   U Calif Berkeley                          UNIX BSD
+UCBDALI   U Calif Berkeley                          UNIX BSD
+UCBEAST   U Calif Berkeley                          UNIX BSD
+UCBESVAX  U Calif Berkeley                          UNIX BSD
+UCBDAVIN  U Calif Berkeley                          UNIX BSD
+UCBEULER  U Calif Berkeley                          UNIX BSD
+UCBFRANN  U Calif Berkeley                          UNIX BSD
+UCBGARNE  U Calif Berkeley                          UNIX BSD
+UCBHOLDE  U Calif Berkeley                          UNIX BSD
+UCBIC     U Calif Berkeley                          UNIX BSD
+UCBICW    U Calif Berkeley                          UNIX BSD
+UCBINGRE  U Calif Berkeley                          UNIX BSD
+UCBJASON  U Calif Berkeley                          UNIX BSD
+UCBJASPE  U Calif Berkeley                          UNIX BSD
+UCBJI     U Calif Berkeley                          UNIX BSD
+UCBKEPLE  U Calif Berkeley                          UNIX BSD
+UCBKIM    U Calif Berkeley                          UNIX BSD
+UCBLAPIS  U Calif Berkeley                          UNIX BSD
+UCBLILAC  U Calif Berkeley                          UNIX BSD
+UCBMATIS  U Calif Berkeley                          UNIX BSD
+UCBMAXWE  U Calif Berkeley                          UNIX BSD
+UCBMEDEA  U Calif Berkeley                          UNIX BSD
+UCBMERLI  U Calif Berkeley                          UNIX BSD
+UCBMIRO   U Calif Berkeley                          UNIX BSD
+UCBMONET  U Calif Berkeley                          UNIX BSD
+UCBNEWTO  U Calif Berkeley                          UNIX BSD
+UCBOKEEF  U Calif Berkeley                          UNIX BSD
+UCBOPAL   U Calif Berkeley                          UNIX BSD
+UCBOZ     U Calif Berkeley                          UNIX BSD
+UCBPEARL  U Calif Berkeley                          UNIX BSD
+UCBQAL    U Calif Berkeley                          MV 8000 AOS
+UCBRENOI  U Calif Berkeley                          UNIX BSD
+UCBROSE   U Calif Berkeley                          UNIX BSD
+UCBSEYMO  U Calif Berkeley                          UNIX BSD
+UCBSHADO  U Calif Berkeley                          UNIX BSD
+UCBSIM    U Calif Berkeley                          UNIX BSD
+UCBSRC    U Calif Berkeley                          UNIX BSD
+UCBSYLVI  U Calif Berkeley                          UNIX BSD
+UCBTOPAZ  U Calif Berkeley                          UNIX BSD
+UCBTULIP  U Calif Berkeley                          UNIX BSD
+UCBUGS    U Calif Berkeley                          UNIX BSD
+UCBUNIXS  U Calif Berkeley                          UNIX BSD
+UCBVANGO  U Calif Berkeley                          UNIX BSD
+UCBVAX    U Calif Berkeley                          UNIX BSD
+UCBVIOLE  U Calif Berkeley                          UNIX BSD
+UCBWEYL   U Calif Berkeley                          UNIX BSD
+UCBZOOEY  U Calif Berkeley                          UNIX BSD
+UCBCED    U Calif Berkeley                          SUN UNIX
+UCBSOE    U Calif Berkeley                          SUN UNIX
+UCBSSL    U Calif Berkeley                          UNIX
+UCBBKYAS  U Calif Berkeley                          VMS
+UCBCCHEM  U Calif Berkeley                          ULTRIX
+UCBJADE   U Calif Berkeley Campus                   UNIX BSD
+UCBJANUS  U Calif Berkeley Campus                   ULTIX
+UCIVMSA   U Calif Irvine Comp Ctr                   VMS
+UCIVMSC   U Calif Irvine Comp Ctr                   VMS
+UCLATMOS  U Calif LA UCLA Atmos Science             VM/SP
+OACVAX    U Calif Los Angeles Acad Comp             UNIX
+UCLAVM    U Calif Los Angeles Acad Comp             VM/SP
+UCLAMVS   U Calif Los Angeles Acad Comp             MVS/SP
+UCLAVMB   U Calif Los Angeles Acad Comp             VM/XA SF
+UCLASSCF  U Calif Los Angeles Soc Sci Facil         VM/SP
+UCRVMS    U Calif Riverside Acad Comp Ctr           VMS
+UCRPHYS   U Calif Riverside Phys Dept               VMS
+UCSFCCA   U Calif San Fran Comp Ctr                 UNIX BSD
+UCSFHC    U Calif San Fran Hosp & Clinics           VM/SP
+UCSFVM    U Calif San Francisco                     VM/SP
+SBHEP     U Calif Santa Barbara                     VMS
+UCSBVM    U Calif Santa Barbara Comp Ctr            VM/SP
+UCSBUXA   U Calif Santa Barbara Comp Ctr            BSD UNIX
+UCSBUXB   U Calif Santa Barbara Comp Ctr            BSD UNIX
+UCSCLICK  U Calif Santa Cruz Lick Obs               UNIX
+UCSCA     U Calif Santa Cruz Unix A                 UNIX BSD
+UCSCC     U Calif Santa Cruz Unix C                 UNIX BSD
+UCSCD     U Calif Santa Cruz Unix D                 UNIX BSD
+UCSCE     U Calif Santa Cruz Unix E                 UNIX BSD
+UCSCF     U Calif Santa Cruz Unix F                 UNIX BSD
+UCSCG     U Calif Santa Cruz Unix G                 UNIX BSD
+UCSCH     U Calif Santa Cruz Unix H                 UNIX BSD
+UCSCI     U Calif Santa Cruz Unix I                 UNIX BSD
+UCSCJ     U Calif Santa Cruz Unix J                 UNIX BSD
+UCSCK     U Calif Santa Cruz Unix K                 UNIX BSD
+UCSCL     U Calif Santa Cruz Unix L                 UNIX BSD
+UCSCM     U Calif Santa Cruz Unix M                 UNIX BSD
+UCSCVM    U Calif Santa Cruz VM                     VM/SP
+UCCVMA    U Calif System-wide Admin                 VM/SP
+UCICP6    U California Comptng Fac                  CP6
+BUCLLN11  U Cath Louvain                            IBM VM/SP HPO R4 2
+UCF1VM    U Central Florida                         VM/SP
+UCFCS     U Central Florida Comp Sci Dept           UNIX BSD
+UCHIMVS1  U Chicago Computation Ctr                 MVS/SP
+UCHISTEM  U Chicago Crewe Laboratory                VM/SP
+UCCCMVS   U Cincinnati                              MVS/SP
+UCCCVM1   U Cincinnati                              VM/SP
+IRUCCIBM  U College Cork                            VM/SP
+IRUCCVAX  U College Cork                            VMS
+IRLEARN   U College Dublin                          VM/SP
+COLORADO  U Colorado Boulder Comp Svcs              VMS
+UCONNMVS  U Connecticut                             MVS
+UCONNVM   U Connecticut                             VM/SP
+DKCCRE01  U Copenhagen Comp Ctr                     OS 1100
+DKUCCC11  U Copenhagen Comp Ctr                     IBM VM/SP R4
+BMSUEM11  U de l'Etat Belgium                       VM/SP
+BLIULG11  U de Liege                                IBM VM/SP HPO R4 2
+BLIULG12  U de Liege                                VM/SP
+BLIULG13  U de Liege Belgium                        VM/SP
+PTEARN    U de Lisboa                               VM/SP
+IPGUNIV   U degli Studi di Perugia                  IBM VM/SP R3
+UDCVM     U Dist Columbia Comp Ctr                  VM/SP
+UDCVAX    U Dist Columbia VAX                       VMS
+DDOINF6   U Dortmund CC Dept                        UNIX
+DERRZE1   U Erlangen                                IBM VM/SP R3
+UFGATE    U Florida CIRCA                           VMS
+UFPINE    U Florida CIRCA                           VMS
+UFENG     U Florida Col Engr                        VM/SP
+UFFSC     U Florida Faculty Sup Ctr                 VM/SP
+CGEUGE52  U Geneva                                  DEC VMS
+HGRRUG0   U Groningen                               NOS
+HGRRUG5   U Groningen                               VMS
+CANADA01  U Guelph                                  VM/SP
+UOGUELPH  U Guelph VM/CMS                           VM/SP
+UOGVAX2   U Guelph, CIS                             UNIX BSD
+DHVMHH1   U Hannover                                IBM VM/SP R2 01
+UHCCMV    U Hawaii Comp Ctr                         MVS/SP JES2
+UHCCUX    U Hawaii Comp Ctr                         ULTRIX
+DHDTRN1   U Heidelberg Immunol Inst                 IBM VM/SP HPO R4 2
+FINUHCB   U Helsinki Phys Comp                      VMS
+UHUPVM1   U Houston Comp Ctr                        VM/SP
+UHNIX1    U Houston Comp Ctr                        ATT
+UHNIX2    U Houston Comp Ctr                        ATT
+UHRCC     U Houston Research Comp Ctr               VMS
+UHRCC2    U Houston Research Comp Ctr 2             VMS
+IDUI1     U Idaho                                   VM/SP
+NCSAVMS   U Ill Ntl Crt Sprcomp Appl                VMS
+NCSAVMSA  U Ill Ntl Ctr Sprcomp Appl                VMS
+NCSAVMSB  U Ill Ntl Ctr Sprcomp Appl                VMS
+UIUCNPL   U Ill- Urb-Champ Nuc Phy Lab              VMS
+UICACC1   U Illinois Chic Admin Comp Ctr            MVS/SP
+UICVMC    U illinois Chic Admin Comp Ctr            VM/SP
+UICVM     U Illinois Chicago                        VM/SP
+UICMVS    U Illinois Chicago                        MVS/SP
+UICPHY    U Illinois Chicago                        VMS
+UIUCMRL   U Illinois Comp Ctr                       VMS
+UIUCHEPA  U Illinois High Energy Physics            VMS
+UIUCHEPB  U Illinois High Energy Physics            VMS
+UIUCVMD   U Illinois Urbana-Cham Comp Svcs          VM/SP
+UIUCVME   U Illinois Urbana-Cham Comp Svcs          VM/SP
+UIUCVMC   U Illinois Urbana-Cham Engr               VM/SP
+UIUCVMB   U Illinois Urbana-Cham VLSI Sys           VM/SP
+UIAMVS    U Iowa                                    MVS/SP
+UIAECE    U Iowa                                    UNIX BSD
+UIAPRB    U Iowa                                    PRIMOS
+UKANVM    U Kansas Comp Srvs                        VM/SP
+UKANMED   U Kansas Med Ctr Dpt Info Sys             VM/SP
+DKAKFK51  U Karlsruhe Rechenzentrum                 VMS
+DKAUNI14  U Karlsruhe Rechenzentrum                 IBM VM/SP R4
+UKCC      U Kentucky Comp Ctr                       VM/SP
+UKMA      U Kentucky Math Sci                       UNIX BSD
+DKIUNI0   U Kiel                                    TOPS-10
+LAVALVM2  U Laval                                   VM/SP
+HLERUL53  U Leiden                                  VMS
+HLERUL2   U Leiden                                  IBM MVS/SP 1 3
+HLERUL5   U Leiden                                  VMS
+HLERUL51  U Leiden                                  VMS
+HLERUL54  U Leiden Medical Infor                    VMS
+HMARL5    U Limburg                                 VMS
+ULKYVM    U Louisville Ctrl Comp                    VM/SP
+ULKYLS    U Louisville Library Sys                  VM/SP
+ULKYVX02  U Louisville VAX Cluster                  VMS
+ULKYVX04  U Louisville VAX Cluster                  VMS
+ULKYVX05  U Louisville VAX Cluster                  VMS
+MECAN1    U Maine Computer Appl Network             VMS
+MAINE     U Maine Computing Center                  VM/SP
+PORTLAND  U Maine Portland Comp Ctr                 VM/SP
+UOFMCC    U Manitoba Comp Ctr
+UOFMCCX   U Manitoba Comp Ctr                       VM
+DMARUM8   U Mannheim                                BS2000
+UMCINCOM  U Maryland College Pk Comp Sci Ctr        VMS
+UMDA      U Maryland College Pk Comp Sci Ctr        VM/SP
+UMDB      U Maryland College Pk Comp Sci Ctr        VM/SP
+UMDC      U Maryland College Pk Comp Sci Ctr        VM/SP
+UMDT      U Maryland College Pk Comp Sci Ctr        VM/SP
+UMD2      U Maryland College Pk Comp Sci Ctr        OS 1100
+UMBC1     U Maryland Comp Info Serv                 VMS
+UMDD      U Maryland Computer Science Ctr           VM/SP
+UMES      U Maryland Eastern Shore                  VM/SP
+UMDENP    U Maryland Experimental Nuclear Phys      VMS
+UMDHEP    U Maryland High Energy Physics            VMS
+UMAB      U Maryland Medical School                 VM/SP
+UMUC      U Maryland U College                      VM/SP
+UMASSVM   U Mass Sch of Engineering                 VM/SP
+UMASS     U Massachusetts at Amherst                NOS
+DGOGWD01  U Max-Planck-Ges Goettingen               OS 1100
+UMIPHYS   U Mich HEP                                VMS
+UMNADMIN  U Minnesota Admin Info Svcs               MVS
+UMINN1    U Minnesota St. Paul Comp Ctr             VM/SP
+UMMVSA    U Missouri Central Facil                  MVS/SP
+UMVMA     U Missouri Central Facil                  VM/SP
+UMCVMB    U Missouri Columbia                       VM/SP
+UMCCSL1   U Missouri Columbia Campus - CC           VMS
+UMKCVAX1  U Missouri Kansas City                    VMS
+UMKCVAX2  U Missouri Kansas City                    VMS
+UMRVMC    U Missouri Rolla                          VM/SP
+UMRVMA    U Missouri Rolla Campus                   VM/SP
+UMRVMB    U Missouri Rolla Campus                   VM/SP
+UMRUNIXA  U Missouri Rolla Campus                   UNIX
+UMSLVMA   U Missouri St. Louis Campus               VM/SP
+UMSLVMB   U Missouri St. Louis Campus               VM/SP
+UMSLVAXA  U Missouri St. Louis Campus               VMS
+UMKCVAX3  U Missouri Truman                         VMS
+UDEM      U Moncton                                 MPE V
+UNCCHEM   U N Carolina Chem Comp Ctr                VMS
+UNCVM1    U N Carolina Comp Ctr                     VM/SP
+UNCSPHV3  U N Carolina Sch Publ Health              VMS
+UNCSPHVX  U N Carolina Sch Publ Health              VMS
+UNCSPHV2  U N Carolina Sch Publ Health              VMS
+UNLCDC1   U Nebr-Lincoln Comp Res Ctr               NOS
+UNLCDC2   U Nebr-Lincoln Comp Res Ctr               NOS
+UNLVAX1   U Nebr-Lincoln Comp Res Ctr               VMS
+UNLVM     U Nebraska Comp Svcs
+UNLCDC3   U Nebraska Lincoln Comp Ctr               NOS
+UNBMVS1   U New Brunswick                           MVS/XA
+UNMB      U New Mexico Comp Ctr                     VMS
+UNFVM     U North Florida Comp Svcs                 VM/SP
+IRISHMVS  U Notre Dame Comp Ctr                     MVS/SP
+UNDHEP    U Notre Dame High Ener Phys
+IRISHVM   U Notre Dame PC Lab                       VM/SP
+IRISHVX2  U Notre Dame Physics Dept                 VMS
+NDRADLAB  U Notre Dame Radiation Lab                VMS
+ALASKA    U of Alaska Comp Net                      VMS
+BANUIA51  U of Antwerp                              VMS
+ARIZJVAX  U of Arizona CCIT VAX                     VMS
+ARIZRVAX  U of Arizona CCIT VAX                     VMS
+UBCMTSA   U of BC Admin System                      MTS
+UCSFC450  U of California San Francisco             ULTRIX 32M
+UCSFFFFT  U of California San Francisco             ULTRIX
+UCSFUSE   U of California San Francisco             UNIX
+HGRRUG52  U of Groningen                            DEC VMS 4 2
+UKAG      U of KY Agri Data Ctr                     VM/SP
+CCOL      U of Ky Community Colleges                VM/SP
+HLERUL56  U of Leiden DIOS                          DEC VMS 4 2
+HLERUL55  U of Leiden DIOS                          VMS
+UC780     U of Maryland                             VMS
+UMNACVX   U of Minn Acad Cmptng                     VMS
+ECSVAX    U of NC Gen'l Admin Cent Office - Educat. UNIX BSDrvs
+OREGON1   U of O CC                                 VM/SP
+UOTELG01  U of Ottawa Elec Eng                      VMS
+UTKVX2    U of Tennessee                            VMS
+UTKVX3    U of Tennessee Computing Center           VMS
+WATLAGER  U of Waterloo, EERC                       VMS
+WISCAGE   U of Wis, Inst on Aging                   VMS
+WISVMACC  U of Wisconsin - MACC                     VM/CMS
+DOLUNI1   U Oldenburg                               IBM VM/SP R4
+DOSUNI    U Osnabrueck                              CGK BS 3
+UOTTAWA   U Ottawa Computer Ctr                     VM/SP
+UOTCSI1   U Ottawa Computer Sci Dept                UNIX
+UOTCSI2   U Ottawa Computer Sci Dept                UNIX
+UOTADM01  U Ottawa Faculty of Admin                 VMS
+IPACUC    U Palermo                                 VM/SP
+PENNDRLN  U Penn DRL Comp Facil                     VM/SP
+PENNDRLS  U Penn DRL Comp Facil                     VM/SP HPO
+PENNLRSM  U Penn Matter Lab                         VMS
+PENNHEP1  U Penn Physics                            VMS
+PITTVMS   U Pittsburgh Comp Info Sys                VMS
+EMDUPM11  U Poli Madrid Ctr Calc                    IBM VM/SP R4
+UPEI      U Prince Edward Island                    VMS
+UQAM      U Quebec Montreal                         VM/SP
+UREGINA1  U Regina                                  VM/SP
+UREGINAV  U Regina                                  VMS 4 5
+UREGINA2  U Regina Dept Comp Services               UNIX BSD
+UORVM     U Rochester Comp Ctr                      VM/SP
+UORDB2    U Rochester Comp Ctr                      VMS
+UORHBV    U Rochester Comp Ctr                      VMS
+UORJVN    U Rochester Comp Ctr                      VMS
+UORKV     U Rochester Comp Ctr                      VMS
+UORKV2    U Rochester Comp Ctr                      VMS
+UORMVS    U Rochester Comp Ctr                      MVS/SP
+UORUNIX   U Rochester Comp Ctr                      UNIX BSD
+UORDBV    U Rochester Computing Ctr                 VMS
+UORGSM    U Rochester Grad Sch Mngmnt               VM/SP
+UORHEP    U Rochester High Energy Physics           VMS
+UOROPT    U Rochester Institue of Optics            VMS
+SASK      U Saskatchewan                            VMS
+BAGAMCOK  U South Carolina Bus College              VM/SP
+UNIVSCVM  U South Carolina Comp Svcs                VM/SP
+KYLARA    U Southern Calif                          VMS
+MIRRIM    U Southern Calif                          VMS
+USCVAXQ   U Southern Calif                          VMS
+ZAPHOD    U Southern Calif                          VMS
+BMSR      U Southern Calif Biomed Simul Res         VMS
+RAMOTH    U Southern Calif Chemistry Dept           VMS
+JAXOM     U Southern Calif Eng Dept                 VMS
+MOUSE     U Southern Calif Eng Dept                 VMS
+PERN      U Southern Calif Engineering Sch          VMS
+SC        U Southern Calif Engineering Sch          VMS
+USCVM     U Southern California                     VM/SP
+USMVAX    U Southern Maine Portland Comp Ctr        VMS
+DS0RUS1I  U Stuttgart                               VM/SP
+DS0RUS1P  U Stuttgart                               VM/SP
+DS0IKE51  U Stuttgart Inst Kernenergetik            VMS
+DS0MPA51  U Stuttgart Materialpruef                 VMS
+DS0RUS51  U Stuttgart Rechenzentrum                 VMS
+DS0RUS0   U Stuttgart, Germany                      NOS
+UTCVM     U Tenn at Chatta Ctr of Excel             VM/SP
+UTCMUSIC  U Tenn at Chatta MUSIC Sys                MUSIC/SP
+UTKVX1    U Tennessee                               VMS
+UTADNX    U Texas Austin Comp Ctr                   VMS
+UTA3081   U Texas Austin Comp Ctr                   VM/SP
+UTA4341   U Texas Austin Comp Ctr                   VM/SP
+UTDALVM1  U Texas Dallas Acad Comp Ctr              VM/SP
+UTEPA     U Texas El Paso CC                        VM/SP
+UTEP      U Texas El Paso Comp Ctr                  VM/SP
+UTSA4381  U Texas San Antonio                       OS/VS1
+UTSAVM1   U Texas San Antonio Comp Res              VM/SP
+UOFT01    U Toledo                                  VM/SP
+UOFT02    U Toledo                                  VMS
+NORUNIT   U Trondheim                               VM/SP
+DTUZDV2   U Tubingen ZDV BASF                       MVS/SP
+DTUZDV1   U Tubingen Zent Datenverar                VM/SP
+UTHSCSA   U TX Hlth Sci Ctr Comp Resrcs             VMS
+SEUMDC01  U UME$                                    CDC NOS 2 3
+HUTRUU0   U Utrecht                                 AOS/VE
+HUTRUU51  U Utrecht Neth                            VMS
+UVUNIX    U Victoria UNIX
+UVPHYS    U Victoria VAX
+UVVM      U Victoria VM                             VM/SP
+VIRGINIA  U Virginia Acad Computing                 NOS
+UWACDC    U Washington Acad Comp Ctr                NOS
+UWAV1     U Washington Acad Comp Ctr VAX1           VMS
+UWAV2     U Washington Acad Comp Ctr VAX2           VMS
+UWAV3     U Washington Acad Comp Ctr VAX3           VMS
+UWAV4     U Washington Acad Comp Ctr VAX4           VMS
+UWAVM     U Washington Academic Comp Ctr            VM/SP
+UWACHEM   U Washington Chemistry VAX                VMS
+UWAEE     U Washington Electrical Engr              VM/SP
+UWAENG    U Washington Electrical Engr              VM/SP
+UWALOCKE  U Washington Locke Comp Ctr               VMS
+UWAPHAST  U Washington Physics VAX                  VMS
+WATACS    U Waterloo Adv Control Sys                VM/SP
+WATACO    U Waterloo Arts Comp Off                  VMS
+WATDCS    U Waterloo Comp Svcs                      VM/SP
+WATCSG    U Waterloo Comp Sys Grp                   VM/SP
+WATDCSU   U Waterloo Dept Comp Svcs                 UNIX BSD
+WATMTA    U Waterloo Dept Comp Svcs                 VMS
+WATSCI    U Waterloo Facil Science                  VMS
+WATMAD    U Waterloo Mapping Analysis & Design      VMS
+WATER     U Waterloo Math/ICR                       UNIX
+WATMNET   U Waterloo MICRONET                       VM/SP
+UWF       U West Fla Comp Ctr                       VM/SP
+UWOCC1    U Western Ontario                         VM/SP
+WINDSOR1  U Windsor                                 VM/SP
+WISCVM    U Wisconsin Comp Sci Dept                 VM/SP
+WISCPSLB  U Wisconsin Dept Physics                  VMS
+WISCMSE   U Wisconsin Engr Dept                     VM/SP
+WISCMACC  U Wisconsin Madison Comp Ctr              VMS
+WISCPSLA  U Wisconsin Phys Sci Lab                  VMS
+WISCPSLC  U Wisconsin Physical Sci Lab              VMS
+DW0URZ0   U Wuppertal HRZ                           NOS
+WYOCDC1   U Wyoming                                 NOS
+WYOCDC2   U Wyoming                                 NOS
+DHBRRZ41  U. Bremen                                 SIEMENS BS 3000 MSP 20
+FRUTC51   U.T.C. Compiegne, France                  DEC VMS
+DHDUB1    UB Heidelberg, Germany                    IBM VM/SP R4
+UCLASAUP  UCLA - Arch and Urban Plng                VM/SP
+UCLACH    UCLA Chem Dept.                           VMS
+UCLASTRO  UCLA Department of Astronomy              VMS
+UCLAHEP   UCLA High Energy Physics                  VMS
+UCLAIEPI  UCLA IE Physics                           VMS
+UCLASP    UCLA Space & Plasma Physics               VMS
+UCLASS    UCLA Space Science                        VMS
+SBITP     UCSB Inst Theor Physics                   VMS
+UCSFCOPE  UCSF Clinic for Lab Medicine              ULTRIX
+BANUFS11  UFSIA, Antwerpen, Belgium                 IBM VM/SP
+BANUIA52  UIA Antwerpen                             VMS
+BBRBFU01  ULB/VUB                                   NOS
+SEUMDC51  UMDAC Umea, Sweden                        DEC VMS
+UNC       UNC Comp Ctr                              MVS/SP
+UNCCVM    UNCC Compt. Srvs. VM                      VM/SP
+GRCRUN11  UNCR Heraklion, Crete, Greece             VM/SP
+DBTHRZ5   Uni Bayreuth RZ, Germany                  DEC VMS 4.5
+HGVUIN1   Uni Den Haag, Netherlands                 IBM VM/SP R3.1
+DERDBS5   Uni Erlangen                              VMS
+DGIPIG5   Uni Giessen Physik, Germany               DEC VMS V4 5
+DHDURZ1   Uni Heidelberg                            IBM VM/SP R5
+DKAUNI5T  Uni Karlsruhe                             VMS
+DKAUNI0P  Uni Karlsruhe (IPF), Germany              PRIMOS REV. 20.0.4
+DKAUNI13  Uni Karlsruhe, Germany, IBDS              IBM VM/SP R4
+DKAUNI12  Uni Karlsruhe, Telematik                  IBM VM/SP R3
+DK0RRZK1  Uni Koeln, Germany                        IBM VM/SP R4
+DKNKURZ1  Uni Konstanz, Germany                     IBM VM/SP R4
+HLERUL57  Uni Leiden                                VMS
+HLERUL58  Uni Leiden, Netherlands                   DEC VMS 4 5
+DMSWWU5P  Uni Muenster, Kernphysik                  VMS
+HROEUR1   Uni Rotterdam, Netherlands                IBM VM/SP R4 1
+HROEUR51  Uni Rotterdam, Netherlands                VMS
+CSGHSG52  Uni St Gallen, Switzerland                DEC VMS
+CSGHSG53  Uni St Gallen, Switzerland                DEC VMS
+DS0IND5   Uni Stuttgart, Germany                    DEC VMS 4.4
+DTUMED1   Uni Tuebingen, Med. Rechenzent            VM/SP
+HENTHT51  Uni Twente                                VMS
+CNEDCU51  Uni. Neuchatel, Switzerland               DEC VMS
+DKARH02   UNI-C, Aarhus, Denmark                    DEC VMS 4 4
+DKUNIL51  UNI-C, Lyngby, Denmark                    DEC VMS 4 5
+USUHS     Uniformed Svrs Univ of Health Sci         VMS
+UNION     Union College                             VNS
+DBNINF5   Univ Bonn Informatik                      VMS
+UCLARUAC  Univ Calif Los Angeles UCLA/OAC           VMS
+UCCVMB    Univ Calif System-wide Admin              VM/SP
+UCLAAIS   Univ California LA AIS                    MVS/XA
+EMDUCM11  Univ Complutense de Madrid                VM/SP
+UCHCECVM  Univ de Chile CC                          VM/SP
+CFRUNI51  Univ de Fribourg                          DEC VMS 4 4
+DD0RUD81  Univ Duesseldorf                          BS2000
+UGAIBM1   Univ Georgia                              MVS/JES3
+UGA205    Univ Georgia                              VSOS
+LAVALVX1  Univ Laval                                VMS
+LAVALMU1  Univ Laval Music Sys                      MUSIC/SP
+DMZRZU71  Univ Mainz                                BULL MULTICS MR 11N
+DMSWWU1C  Univ Muenster, Germany                    IBM VM/SP R4
+UNAMVM1   Univ Nat'l Auto De Mexico                 VM
+UNBSJ     Univ New Brunswick St. John               PRIMOS
+NUNO      Univ New Orleans Admin DP                 MVS
+UNO       Univ New Orleans CRC                      VMS
+ARIZMIS   Univ of Arizona - MIS Dept                VMS
+SOVSET    Univ of Arizona - Soviet Studies          VMS
+ARIZCMI   Univ of Arizona BPA/MIS                   VM/CMS
+ARIZEVAX  Univ of Arizona College of Eng. EVAX2     VMS
+UAFSYSA   Univ of Arkansas Main Camp                VM/SP
+UAFSYSB   Univ of Arkansas Main Camp                VM/SP HPO
+UBCMTSG   Univ of BC General Sys                    MTS
+UBCMTSL   Univ of BC Library System                 MTS
+NOBERGEN  Univ of Bergen, Norway                    VM/SP
+UNCAEDU   Univ of Calgary                           VMS
+UCSCZ     Univ of California CC Series Z            VMS
+UCSCCRLP  Univ of California Comp Res Lab Pger      UNIX
+UCSCCRLV  Univ of California Comp Res Lab Vger      UNIX
+UCSCCRLI  Univ of California Comp Res Lab VM        VM/SP
+UCSCCRLJ  Univ of California Comp Res Lab, Jup      UNIX
+UCSCCRLS  Univ of California Comp. Res Lab Saturn   UNIX
+UCSCLOA   Univ of California Lick Observ            UNIX
+UCSCERIS  Univ of California Physics Bd             UNIX 4.2
+UCSD      Univ of California San Diego Acad Gatwy SuSUN UNIX
+UCDAVIS   Univ of California, Davis                 UNIX
+UCDHEP    Univ of California, Davis                 VMS
+UCHASTRO  Univ of Chicago - Astron/Astrophy         UNIX
+COLOLASP  Univ of Colorad / LASP                    VMS
+COLOSPGS  Univ of Colorado - Colorado Springs CS    VMS
+FARRAND   Univ of Colorado Boulder - Farrand Hall   VMS
+CUDENVER  Univ of Colorado Denver                   UNIX BSD
+UCOLMCC   Univ of Colorado Health Sci Ctr           VMS
+DAYTON    Univ of Dayton                            VMS
+DUCAIR    Univ of Denver Comptng & Info Res         VMS
+IFASGNV   Univ of Florida                           VMS
+CGEUGE53  Univ of Geneva                            DEC VMS
+CGEUGE11  Univ of Geneva                            IBM VM/SP
+CGEUGE54  Univ of Geneva                            DEC VMS
+UGACDC1   Univ of Georgia                           NOS
+UGA       Univ of Georgia                           VM/SP
+UGABUS    Univ of Georgia                           VM/SP
+UGAMUSIC  Univ of Georgia                           MUSIC/SP
+UGAXA     Univ of Georgia                           VM/XA/SF
+CCQC      Univ of Georgia                           VM/SP
+TIFTON    Univ of Georgia Coastal Plains Exp Sta    VM/SP
+GRIFFIN   Univ of Georgia Experiment Station        VM/SP
+HGRRUG53  Univ of Groningen Arts & Letters          DEC VMS
+HARTFORD  Univ of Hartford                          VMS
+UHHEPG    Univ of Hawaii High Enrgy Phys Grp        VMS
+FINUHB    Univ of Helsinki                          VMS
+FINUHA    Univ of Helsinki                          VMS
+ISEARN    Univ of Iceland                           VM/SP
+IDCSVAX   Univ of Idaho                             VMS
+UIUCSCS   Univ of Illinois Chemistry                VMS
+UICBAL    Univ of Illinois Chicago Biomolec Analy LaVMS
+UKANVAX   Univ of Kansas VAX Sys                    VMS
+UKPR      Univ of Kentucky Prim                     PRIMOS
+FINKUO    Univ of Kuopio                            VMS
+CLSUNI51  Univ of Lausanne                          DEC VMS
+UMBSKY    Univ of Mass at Boston                    VMS
+UMBMAP    Univ of Mass at Boston                    VMS
+UMAECS    Univ of Mass, Eng. Comp Svrs              VMS
+UMBC2     Univ of MD, Baltimore Co                  VMS
+UMNACBR   Univ of Minnesota Acad Comptng            VMS
+UMNACCA   Univ of Minnesota Academic Comp           NOS
+UMNDUL    Univ of Minnesota Duluth                  VMS
+UMNHSNOS  Univ of Minnesota Health Sci Cmptng Srvs  NOS
+UMNHSNVE  Univ of Minnesota Health Sci Cmptng Srvs  NOS
+UMNMOR    Univ of Minnesota Morris                  VMS
+SIMVAX    Univ of Minnesota Simul Facil             VMS
+UMNSOM    Univ of Minnesota, Sch of Mgmt            VM/SP
+UMSVM     Univ of Mississippi                       VM/SP
+UMSMVS    Univ of Mississippi                       MVS/SP
+MSSTATE   Univ of Mississippi CC PC/RT              UNIX
+UNEV      Univ of Nevada Sys CC                     NOS
+UNB       Univ of New Brunswick                     MVS/XA
+UNHH      Univ of New Hampshire                     VMS
+UNCVAX1   Univ of North Carolina CC                 VMS
+UNCG      Univ of North Carolina Greensboro Acad CC VMS
+OREGON2   Univ of Oregon DEC 1091                   TOPS-10
+UOREGON   Univ of Oregon Dept. Comp. & Info Scie,   UNIX BSD
+UONEURO   Univ of Oregon Inst. of Neurosci VAX      VMS
+UOXRAY    Univ of Oregon Molecular Bio VAX          VMS
+UOHEP     Univ of Oregon Theoretical Sci.           VMS
+OREGON    Univ of Oregon VAX 8800                   VMS
+UOTADM02  Univ of Ottawa
+UOTTAWA2  Univ of Ottawa CC                         VM/SP
+GRPATVX1  Univ of Patras                            VMS
+UPRENET   Univ of Puerto Rico Ed Net                VMS
+URVAX     Univ of Richmond                          VMS
+UORNSRL   Univ of Rochester                         VMS
+SCRANTON  Univ of Scranton Comp Ctr                 VMS
+SCRVMSYS  Univ of Scranton Comp Ctr                 VM/SP
+UDESVM    Univ of Sherbrooke
+UDESMA    Univ of Sherbrooke
+UDESMB    Univ of Sherbrooke
+USCMVSL   Univ of So Calif Lib Sys                  MVS/SP
+UTCHP1    Univ of Tennessee - Chatta.               MPE V/E
+UTKVX4    Univ of Tennessee Comp Ctr VAX4           VMS
+UTKCS1    Univ of Tennessee Computer Sci Dept       VMS
+UTMEM1    Univ of Tennessee, Memphis                VMS
+UTARLVM1  Univ of Texas - Arlington VM              VM/SP
+UTARLACS  Univ of Texas Arlington                   MVS/SP
+UTARLADM  Univ of Texas Arlington                   MVS/SP
+UTARLG    Univ of Texas Arlington                   VMS
+UTMBEACH  Univ of Texas Med Branch at Galveston     VMS
+UTHVM1    Univ of Texas Sys Cancer Ctr              VM/SP
+UTCHPC    Univ of Texas Sys Ctr for High Perfor CmptVMS
+UTARL     Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTDAL     Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTEPD     Univ of Texas Sys Off of Telecom. Srvcs   VMS
+EUCLID    Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTAUS     Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTCC      Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTHDAL    Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTHSA     Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTHTYL    Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTMGAL    Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTPB      Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTSA      Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTSYS     Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTTYL     Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTSPH     Univ of Texas Sys Off of Telecom. Srvcs   VMS
+UTCCSP    Univ of Texas Sys Off of Telecom. Srvcs   VMS
+JPNUTDME  Univ of Tokyo                             VM/SP
+JPNUTKOM  Univ of Tokyo Coll of Arts & Sci          VM/SP
+UTORCSRI  Univ of Toronto
+UTORSCG   Univ of Toronto                           VM/SP
+UTORSCS   Univ of Toronto                           VMS
+UTORGPU   Univ of Toronto                           SUN BSD
+UTORMCL1  Univ of Toronto                           VMS
+UTORME    Univ of Toronto Mech Eng                  UNIX
+UTOROCI   Univ of Toronto OCI                       VMS
+UTORPHYS  Univ of Toronto Physics,Astro             VMS
+TULSA     Univ of Tulsa                             CP-6 C01
+UTAHCCA   Univ of Utah CC                           VMS
+UTAHBUS   Univ of Utah College of Bus CC            VM
+UTAHMED   Univ of Utah Med Sch Scie CC              VMS
+UVMVM     Univ of Vermont                           VM/SP
+UVMADMIN  Univ of Vermont                           VM/SP
+UWAJANUS  Univ of Washington Astro. HST Project     VMS
+UWAGEM    Univ of Washington Gemini Comptng Faclty  VM/SP
+UWAMATSC  Univ of Washington Materials Sci Comp     VM/SP
+UWAPA2    Univ of Washington Physics Theory Grp     VMS
+UWAIX     Univ of Washington, Acad Comp Svcs        IX370
+UWOVAX    Univ of Western Ontario                   VMS
+WINDSOR2  Univ of Windsor                           VMS
+WISCCDE   Univ of Wis., Cntr. Demog.                VMS
+WISCPHEN  Univ of Wisc Pheno Inst                   MICROVMS
+WISCGPS   Univ of Wisc, Geog/PoliSci Depts          VMS
+UWMCSD4   Univ of Wisconsin - Milwaukee             UNIX
+UWEC      Univ of Wisconsin Eau Claire              CP-6 COO
+WISCSOC   Univ of Wisconsin Madison Socio Dept      VMS
+WISCMAC3  Univ of Wisconsin, MACC                   VMS
+HROEUR0M  Univ Rotterdam                            MUSIC/SP
+FINUH     Univ. of Helsinki, Finland                VMS 4.5
+FINTUVM   Univ. of Turku, Finland                   IBM VM/SP R5
+EBRUPC51  Univ. Politecnica de Catalunya            DEC VMS 4 5
+EMDICAI1  Univ. Pontificia Comillas, Sp             DG AOS/VS 6 06
+DK0RRZK0  Univer Koeln Regls Rechentrum             NOS
+EB0UB013  Universidad Barcelona - Spain             VM/SP REL 4
+EB0UB011  Universidad Barcelona - Spain             VM/SP
+ELEULE11  Universidad de Leon, Spain                IBM VM/SP R1 2
+IGECUNIV  Universita Genova                         VM/SP
+IMEUNIV   Universita Messina                        IBM VM/SP R3 1
+ICSUNIV   Universita' della Calabria                VM/SP
+IPRUNIV   Universita' di Parma, Italy               IBM VM/SP R2
+IRMUNISA  Universita' La Sapienza                   VM/SP
+ITNCISCA  Universita' Trento, Italy                 DEC VMS 3 0
+DBIUNI11  Universitaet Bielefeld HRZ                VM/SP
+DHBRRZ45  Universitaet Bremen                       BS 3000 MSP 20
+DDOHRZ21  Universitaet Dortmund                     IBM MVS/SP 1 3.3
+DERRZE0   Universitaet Erlangen                     NOS
+DE0HRZ1A  Universitaet Essen                        IBM VM/SP R3
+DGIHRZ01  Universitaet Giessen                      NOS
+DHHUNI4   Universitaet Hamburg, Germany             SIEMENS BS 3000 MSP 20
+DMZRZU5P  Universitaet Mainz, Germany               DEC VMS 4 4
+DSIHRZ51  Universitaet Siegen                       VMS
+DULRUU51  Universitaet Ulm, Germany                 DEC VMS 4 5
+DHDURZ2   Universitaets-Rechenzentrum               IBM MVS/SP 2 1.7
+DE0WTZ1A  Universitaetsklinikum Essen               IBM VM/SP R3
+UMTLVR    Universite de Montreal                    VMS
+UQHULL    Universite Du Quebec A Hull               VMS
+FRP8V11   Universite Paris 8                        VM/SP
+CGEUGE51  University de Geneve                      DEC VMS
+UDACSVM   University of Delaware                    VM/SP
+UDPLATO   University of Delaware Off of Instruct. TeNOS
+USCN      University of Georgia                     NOS
+UHVAX1    University of Houston                     VMS
+UHVAX8    University of Houston                     VMS
+UTKVM1    University of Tennessee                   VM/SP
+UTOREPAS  University of Toronto                     VM/SP
+UTORONTO  University of Toronto                     VM/SP HPO 4 2
+UTOROISE  University of Toronto OISE                VMS
+UOGCGIL   UoG OAC Genetics                          VM/SP
+UOGOACTS  UoG OAC Teaching                          VM/SP
+SEUDAC21  Uppsala U Data Ctr                        IBM MVS/SP 1 3.0
+SEMAX51   Uppsala Univ, Sweden                      DEC VMS
+URIMVS    URI Academic Computer Center              MVS/SP
+NCCIBM1   US EPA                                    MVS/XA-JES2
+USGSRESV  US Geological Survey ISD VAX              VMS
+GROGHE    USC - Groghe                              VMS
+USCMVSA   USC - System MVSA                         OS/VS2 MVS/XA
+USU       Utah State U                              VMS
+USUVM     Utah State Univ VM                        VM
+UTORCCIE  UTORCCIE                                  VM/SP
+UWAFRODO  UW Radiation Oncology                     VMS
+UWARITA   UW San Diego RUAC                         VMS
+VALPO     Valparaiso Univ                           AOS
+VUENGVAX  Vanderbilt U Engineering Sch              VMS
+VUCTRVAX  Vanderbilt Univ CC                        VMS
+VUCTRVX1  Vanderbilt Univ CC                        VMS
+VUCTRVX2  Vanderbilt Univ CC                        VMS
+VUHHCL01  Vanderbilt Univ HHCL                      VMS
+VULIBS    Vanderbilt Univ Library                   IBM/DOS
+VANDVM1   Vanderbilt Univ. A&S                      VM/SP
+VANDVMS1  Vanderbilt Univ. Physics                  VMS
+VASPSY    Vassar Col Psych and Econ                 VMS
+VASSAR    Vassar College                            VMS
+VASCHU    Vassar College                            VMS
+VILLVM    Villanova Univ                            VM/SP
+VUVAXCOM  Villanova Univ                            VMS
+VCUMVS    Virginia Common U Comp Ctr                MVS/SP
+VCUVAX    Virginia Commonwealth Univ                VMS
+VTCS1     Virginia Tech (VPI)                       VMS
+VTMATH    Virginia Tech (VPI)                       VMS
+VTME      Virginia Tech (VPI)                       VMS
+VTSDA     Virginia Tech (VPI)                       VMS
+VTVAX3    Virginia Tech (VPI)                       VMS
+VTVAX5    Virginia Tech (VPI)                       VMS
+VTVM1     Virginia Tech (VPI)                       VM/SP
+VTVM2     Virginia Tech (VPI)                       VM/SP
+VTVM3     Virginia Tech (VPI)                       VM/SP
+VTOPUS    Virginia Tech (VPI)                       ULTRIX-32 V 1.1
+VTHCL     Virginia Tech IEOR                        VMS
+JPNWAS00  Waseda Univ                               VM/SP
+WSUVM1    Washington State U Comp Ctr               VM/SP
+WSUVMS2   Washington State Univ - Comp. Srvs Ctr.   VMS
+WSUMATH   Washington State Univ - Math Dept         VMS
+WSUVMS1   Washington State Univ Comp Serv Ctr       VMS
+WUNET     Washington U St Louis                     VMS
+WUBLUE    Washington Univ                           MUSIC/SP
+WUGOLD    Washington Univ                           MUSIC/SP
+WUGREEN   Washington Univ                           MUSIC/SP
+WUMS      Washington Univ Med Sch                   VMS
+WUVMA     Washington University                     VM/SP
+WUVMC     Washington University                     VM/SP
+WUVMD     Washington University                     VM/SP
+WUVME     Washington University                     VM/SP
+WUVMF     Washington University                     VM/SP
+WAYNEST1  Wayne State Univ CC                       VM/SP
+WEIZMANN  Weizmann Inst Comp Ctr                    IBM VM/SP HPO R4 2
+WISVMS    Weizmann Inst Dept of Chem                DEC VMS 4 3
+WISDOM    Weizmann Inst Dept of Math                UNIX 4.2 BSD
+WESLEYAN  Wesleyan U Net Gate Comp Ctr              VMS
+WESLYN    Wesleyan University                       VMS
+WVNMVS    West Virginia Network                     MVS/SP
+WVNVAXA   West Virginia Network                     VMS
+WVNVAXB   West Virginia Network                     VMS
+WVNVM     West Virginia Network                     VM/SP
+WVNSVC    West Virginia Network                     VMS
+WVNVMS    West Virginia Network                     VMS
+DMSWWU1A  Westfael Wilhelms-U Muenster              VM/SP
+DMSWWU2B  Westfael Wilhelms-U Muenster              IBM MVS/SP 1 3.5
+TWSUVM    Wichita State Univ CC                     VM/SP
+WLUCP6    Wilfred Laurier Univ                      CP-6
+WILLIAMA  Williams College CC                       VMS
+WILLIAMB  Williams College CC Admin VAX Sys         VMS
+WILLIAMS  Williams College Comp Ctr                 VMS
+WPI       Worcester Poly Tech EE                    ULTRIX
+WBWVM     World Bank                                VM/HPO
+AWIWSR01  WSR                                       SPERRY OS 1100
+AWIWUW11  WU-Wien                                   IBM VM/SP R4
+XAVIER    Xavier Univ Acad Comp Ctr                 VMS
+YALEMED   Yale Med Sch - Biomedical Comp Unit       VMS
+YALEADS   Yale U Admin Data SVCS                    VM/SP
+YALASTRO  Yale U Astronomy Dept                     VMS
+YALECS    Yale U Comp Sci Dept                      UNIX
+YALEMVS   Yale U Computer Ctr                       MVS/SP
+YALEVM    Yale U Computer Ctr                       VM/SP
+YALEVMS   Yale U Computer Ctr                       VMS
+YALPH2    Yale U HEP2                               VMS
+YALENSL   Yale U Nuclear Struc Lab                  VM/SP
+YALEHEP   Yale U Physics Lab                        VMS
+YALEZEUS  Yale Univ Med Sch                         VMS
+TRYILDIZ  Yildiz Univ                               IBM VM/SP R3
+YUORION   York U Admin Stud Environ Sci             VMS
+YUSOL     York U Comp Sci Fac Sci                   VMS
+YUYETTI   York U Comp Sci Research                  UNIX BSD
+YULIBRA   York U Computing Services                 VMS
+YUVULCAN  York U Glendon Coll                       VMS
+YORKVM1   York University                           VM/SP
+YORKVM2   York University                           VM/SP
+YUGEMINI  York University                           VMS
+YUVENUS   York University                           VMS
+DTUZDV0   ZDV U Tubingen                            OS 1100
+DTUZDV5A  ZDV U Tuebingen                           VMS
+DK0ZA1    Zentralarch Sozialfors Koeln              VM/SP
+CZHRZU1A  Zurich U                                  IBM VM/SP
+CZHRZU2B  Zurich U                                  IBM MVS/SP
+PEPRDINE  Pepperdine Univ                           MVS/XA
+UMSNOS    Univ of Mississippi                       NOS
+UMSVSOS   Univ of Mississippi                       VSOS
